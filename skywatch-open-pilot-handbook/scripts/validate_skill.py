@@ -30,6 +30,7 @@ def main() -> int:
 
     required_refs = [
         "references/curriculum.md", "references/free-pilot-training-map.yaml", "references/playlists.yaml",
+        "references/free-learning-catalog.yaml",
         "references/source-policy.md", "references/sources.yaml", "references/safety-boundaries.md",
         "references/pilot-journeys.md", "references/ownership-journey.md", "references/tool-catalog.md",
     ]
@@ -50,6 +51,14 @@ def main() -> int:
     if "rights:" not in playlists or "checked:" not in playlists:
         errors.append("Playlist registry needs rights and checked metadata")
 
+    free_catalog = require("references/free-learning-catalog.yaml", errors)
+    catalog_numbers = [int(n) for n in re.findall(r"^  - catalog_number: (\d+)$", free_catalog, re.M)]
+    if len(catalog_numbers) < 100 or catalog_numbers != list(range(1, len(catalog_numbers) + 1)):
+        errors.append("Free-learning catalog must contain at least 100 sequentially numbered resources")
+    for field in ["creator:", "creator_url:", "url:", "rights:", "checked:"]:
+        if field not in free_catalog:
+            errors.append(f"Free-learning catalog missing attribution field: {field}")
+
     templates = list((ROOT / "assets" / "templates").glob("*.md"))
     if len(templates) < 10:
         errors.append("At least 10 reusable templates are required")
@@ -64,7 +73,7 @@ def main() -> int:
         for error in errors:
             print(f"- {error}")
         return 1
-    print(f"VALIDATION PASSED: 64 mapped lessons, {len(templates)} templates, source and safety policies present")
+    print(f"VALIDATION PASSED: 64 mapped core lessons, {len(catalog_numbers)} credited free resources, {len(templates)} templates, source and safety policies present")
     return 0
 
 

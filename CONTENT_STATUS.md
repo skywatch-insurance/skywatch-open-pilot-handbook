@@ -8,6 +8,7 @@
 | 64-lesson Free Pilot Training map | mapped | Creator partnership/rights conversation; lesson-level ACS/source crosswalk |
 | Twelve-module PPL curriculum | draft | Current Private Pilot Airplane ACS crosswalk and CFI review |
 | Alternative free playlists | mapped | Annual availability/metadata review; per-asset rights check before reuse |
+| 199-item credited free-learning catalog | usable | Refresh counts and links; expand topic/ACS mapping; never mirror creator media without permission |
 | Pilot learning journeys | draft | Active CFI/flight-school user testing |
 | Ownership journey | draft | Owner, A&P/IA, attorney, CPA, title, and insurance review |
 | Ten worksheets | draft | Scenario test with students, renters, buyers, and owners |

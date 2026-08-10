@@ -1,5 +1,5 @@
 schema_version: 1
-checked: 2026-08-04
+checked: 2026-08-10
 policy: Link and summarize only unless documented rights permit reuse. Verify safety-critical claims against primary sources.
 playlists:
   - id: free-pilot-training-ppl
@@ -25,6 +25,16 @@ playlists:
     videos_at_check: 44
     role: supplemental
     coverage: Private-pilot concepts and practical tips
+    rights: link-only
+  - id: free-pilot-training-instrument
+    title: Instrument Ground Course
+    creator: Free Pilot Training
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+    videos_at_check: 10
+    role: instrument-rating-supplement
+    coverage: Basic instrument skills, flight instruments, altitude, and IFR foundations
+    jurisdiction: US-FAA
     rights: link-only
   - id: fly8ma-private-pilot
     title: Private Pilot Ground School
@@ -97,4 +107,125 @@ playlists:
     videos_at_check: 42
     role: type-club-maintenance-supplement
     coverage: Maintenance, operations, and owner responsibilities with a Bonanza focus
+    rights: link-only
+  - id: free-pilot-ground-school-channel
+    title: Free Pilot Ground School Video Library
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/@freepilotgroundschool2326/videos
+    videos_at_check: 137
+    role: supplemental-library
+    coverage: Ground instruction, flight exercises, air law, weather, systems, human factors, navigation, theory, operations, and instruments
+    jurisdiction: mixed-or-unspecified
+    jurisdiction_warning: Confirm applicability against current US FAA sources before operational use.
+    rights: link-only
+  - id: fpgs-advanced-topics
+    title: Advanced Topics for Dumb Pilots
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQd29q0o-HKBWu4j3dVH2uAy
+    videos_at_check: 4
+    role: advanced-supplement
+    coverage: Advanced aviation topics
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-air-exercises
+    title: Air Exercises — Preparatory Ground Instruction
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQeT9D-T392TpdrZ_CfoiBGV
+    videos_at_check: 27
+    role: flight-training-supplement
+    coverage: Preparatory ground instruction for flight exercises
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-radio-electronic-theory
+    title: Radio & Electronic Theory
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQeNYLOLkH7fW15RDzopsrgE
+    videos_at_check: 6
+    role: communications-supplement
+    coverage: Radio and electronic theory
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-air-law
+    title: Air Law
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQc_6EaQCZwPxkdHBaoMt6dU
+    videos_at_check: 20
+    role: law-comparison-only
+    coverage: Air-law concepts requiring jurisdiction-specific verification
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-meteorology
+    title: Meteorology
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQcNl7Loy9tT5hv0466kgAwx
+    videos_at_check: 23
+    role: weather-supplement
+    coverage: Aviation meteorology
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-airframes-engines-systems
+    title: Airframes Engines & Systems
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQflMX-uoULHZ-y4cY-Eqb91
+    videos_at_check: 10
+    role: aircraft-systems-supplement
+    coverage: Airframes, engines, and aircraft systems
+    jurisdiction: general
+    rights: link-only
+  - id: fpgs-human-factors
+    title: Human Factors
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQe_VoS_AUx6spm_C449qnnj
+    videos_at_check: 5
+    role: human-factors-supplement
+    coverage: Human performance and limitations
+    jurisdiction: general
+    rights: link-only
+  - id: fpgs-navigation
+    title: Navigation
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQeRN7o1GfeiiVGmE6eIU1FL
+    videos_at_check: 7
+    role: navigation-supplement
+    coverage: Aviation navigation concepts
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-theory-of-flight
+    title: Theory of Flight
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQdrKqxqf34pjUDk0WyryHdW
+    videos_at_check: 8
+    role: aerodynamics-supplement
+    coverage: Theory of flight and aerodynamics
+    jurisdiction: general
+    rights: link-only
+  - id: fpgs-flight-operations
+    title: Flight Operations
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQcl91KmGNaWNOjtNvbnDCEA
+    videos_at_check: 7
+    role: operations-supplement
+    coverage: Flight-operations concepts
+    jurisdiction: mixed-or-unspecified
+    rights: link-only
+  - id: fpgs-flight-instruments
+    title: Flight Instruments
+    creator: Free Pilot Ground School
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/playlist?list=PLpytvBW3IdQcZXos8zD4NG5ZYzoniQjqb
+    videos_at_check: 11
+    role: instrument-supplement
+    coverage: Flight-instrument principles and use
+    jurisdiction: general
     rights: link-only

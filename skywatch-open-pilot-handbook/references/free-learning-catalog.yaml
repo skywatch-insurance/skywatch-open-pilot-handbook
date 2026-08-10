@@ -1,0 +1,2601 @@
+schema_version: 1
+checked: 2026-08-10
+catalog_policy: Credited links and metadata only. Creator media and transcripts are not redistributed.
+authority_policy: Educational media supplements the 64-lesson syllabus; current primary sources control consequential claims.
+counting_policy: Counts individual free video lessons and institutional learning hubs, not 100 separate approved ground schools.
+collections:
+  - id: free-pilot-training-instrument
+    title: "Instrument Ground Course"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+    jurisdiction: US-FAA
+    role: instrument-rating-supplement
+    credibility_note: "Established aviation-training creator; verify consequential claims against current FAA sources."
+    access: free-at-check
+    rights: link-only
+    item_count: 10
+  - id: king-schools-free-private-pilot
+    title: "Free Private Pilot Videos"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+    jurisdiction: US-FAA
+    role: private-pilot-supplement
+    credibility_note: "Long-established US flight-training publisher; videos are supplemental and the current FAA authority controls."
+    access: free-at-check
+    rights: link-only
+    item_count: 43
+  - id: free-pilot-ground-school-channel
+    title: "Free Pilot Ground School - Videos"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+    jurisdiction: mixed-or-unspecified
+    role: topic-explanation-supplement
+    credibility_note: "Structured aviation ground-school library; confirm jurisdiction and verify against FAA sources before US operational use."
+    access: free-at-check
+    rights: link-only
+    item_count: 137
+total_resources: 199
+resources:
+  - catalog_number: 1
+    id: 95uylXeWgng
+    title: "Instrument Ground Course - Lesson 1 | Basic Instrument Skills (IFR Basics)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=95uylXeWgng
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 2
+    id: aUnI2VQ70sc
+    title: "6 Types of Altitude EVERY Pilot Should Know (IFR Ground Course Lesson 2)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=aUnI2VQ70sc
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 3
+    id: mSR8Lsx-cUo
+    title: "How to set the Altimeter so you don't DIE! (IFR Ground Course Lesson 3)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=mSR8Lsx-cUo
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 4
+    id: LHqtG_rc10M
+    title: "Altimeter Errors Explained (IFR Ground Course Lesson 4)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=LHqtG_rc10M
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 5
+    id: aL63DgLrYyM
+    title: "How to Use a Turn Coordinator for IFR Flight (EASY)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=aL63DgLrYyM
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 6
+    id: l-do-_saeRQ
+    title: "The Pitot Static System Explained (for IFR pilots)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=l-do-_saeRQ
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 7
+    id: HSGHNQGmLHM
+    title: "The Magnetic Compass EXPLAINED (for IFR Pilots)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=HSGHNQGmLHM
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 8
+    id: sEdYStv4dxw
+    title: "The HEADING INDICATOR Explained (for IFR Pilots)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=sEdYStv4dxw
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 9
+    id: l_FTUTU-kvE
+    title: "How to Use the Attitude Indicator for IFR Flight (Easy)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=l_FTUTU-kvE
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 10
+    id: wIGMsF6UHVQ
+    title: "Digital Instruments Explained (for IFR Pilots)"
+    creator: "Free Pilot Training"
+    creator_url: https://www.youtube.com/@FreePilotTraining
+    url: https://www.youtube.com/watch?v=wIGMsF6UHVQ
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-training-instrument
+    collection_title: "Instrument Ground Course"
+    collection_url: https://www.youtube.com/playlist?list=PLKGcDgymP_oZ618l5ebEnDIpqOrrTwboI
+  - catalog_number: 11
+    id: qTZw-bWEq9k
+    title: "Memorize Visibility & Cloud Clearance Requirements Forever! // Private Pilot Ground School"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=qTZw-bWEq9k
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 12
+    id: -R9z7K-W328
+    title: "Class B Airspace on a Chart // Private Pilot Ground School"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=-R9z7K-W328
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 13
+    id: GD9odoTnJvg
+    title: "Weight and Balance Explained // Private Pilot Ground School & Written Test Prep"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=GD9odoTnJvg
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 14
+    id: RKksJLMmg2M
+    title: "Finding Your Position With a VOR (Ace Your Private Pilot Written Test)"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=RKksJLMmg2M
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 15
+    id: Zc5ICe0Flxc
+    title: "Communicate Like a Pro at Uncontrolled Airports // Private Pilot Ground School"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=Zc5ICe0Flxc
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 16
+    id: eyEHs9UR48I
+    title: "Private Pilot Checkride Prep - Oral Exam - Setting up the Scenario"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=eyEHs9UR48I
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 17
+    id: D1J1oUP-aKA
+    title: "What is a Stall? What is Angle of Attack? | King Schools"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=D1J1oUP-aKA
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 18
+    id: PLoQWxbPMoU
+    title: "FREE Course Intro | Understanding Aircraft Marshalling"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=PLoQWxbPMoU
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 19
+    id: vhyY_7v1jdY
+    title: "Flying Rectangular Patterns // Private Pilot Maneuvers"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=vhyY_7v1jdY
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 20
+    id: 6Csq8uAUdYI
+    title: "Weather Basics - Air Masses and Stability"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=6Csq8uAUdYI
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 21
+    id: AjXsy1eVrws
+    title: "Taxiing In A Strong Wind - Private Pilot Ground School & Test Prep"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=AjXsy1eVrws
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 22
+    id: JP25m4SIrJI
+    title: "What is Ground Effect? (Pilots, You Better Know This) | King Schools"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=JP25m4SIrJI
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 23
+    id: e4eP4a1PDhE
+    title: "Private Pilot Ground School - Flying Rectangular Patterns"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=e4eP4a1PDhE
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 24
+    id: psPehXYfCjs
+    title: "Private Pilot Checkride - Identifying and Mitigating Risks"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=psPehXYfCjs
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 25
+    id: yU3u4Hxe7pA
+    title: "Winds and Temperatures Aloft Forecast, Are You Reading it Correctly?"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=yU3u4Hxe7pA
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 26
+    id: zwS3oeTS_4s
+    title: "King Schools Private Pilot ACS Checkride Course - Takeoff & Departures"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=zwS3oeTS_4s
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 27
+    id: pLbIkYbIdho
+    title: "Black Square, You're There!"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=pLbIkYbIdho
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 28
+    id: QFLwajrLEmI
+    title: "Crosswind Landings Made Easy // Free Course Preview"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=QFLwajrLEmI
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 29
+    id: gJB5wTZOEeY
+    title: "Your First Flying Lesson // An Adventure You'll Never Forget!"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=gJB5wTZOEeY
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 30
+    id: 4lCTk7RCh00
+    title: "VOR Navigation is Simple... Right? // Private Pilot Ground School"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=4lCTk7RCh00
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 31
+    id: BWwmZaZJHU4
+    title: "Carburetor Icing - Don't Forget This Simple Lesson! // Private Pilot Ground School"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=BWwmZaZJHU4
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 32
+    id: 41BirFo_0UE
+    title: "Aviation Weather Theory // Clouds & Moisture Basics Explained"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=41BirFo_0UE
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 33
+    id: a1jNPd5nMOk
+    title: "Private Pilot Maneuvers // Normal Takeoff"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=a1jNPd5nMOk
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 34
+    id: Y8uHZp6kqQQ
+    title: "VOR Navigation - Your Position Relative to the Station // Private Pilot Ground School"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=Y8uHZp6kqQQ
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 35
+    id: BNJ8gQ6WV5s
+    title: "Wait.. you can fly a turbine aircraft on Basic Med?? (BasicMed Explained)"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=BNJ8gQ6WV5s
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 36
+    id: 12M3EuVfeP8
+    title: "Study smarter, not harder (how to score 100% on the Private Pilot written exam)"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=12M3EuVfeP8
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 37
+    id: pu8E7VSi370
+    title: "How does Carburetor Ice Form?"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=pu8E7VSi370
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 38
+    id: jjdS3igG0uU
+    title: "Choosing the Right Runway Based on Wind Direction"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=jjdS3igG0uU
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 39
+    id: DO5SWJU_YCU
+    title: "Runway Hold Position Markings Made Easy"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=DO5SWJU_YCU
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 40
+    id: UDfAUK3jVd8
+    title: "Pilot Communications at Uncontrolled Airports #pilottraining #privatepilot"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=UDfAUK3jVd8
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 41
+    id: FA0ObfuvAoc
+    title: "Lofi & Aviation Weather Theory"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=FA0ObfuvAoc
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 42
+    id: tzARUb0cu9I
+    title: "Learn how to calculate cloud height in 1 minute  #pilottraining #privatepilot"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=tzARUb0cu9I
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 43
+    id: Efmm1s5ypw8
+    title: "Compass Turning Errors Explained in 2 Minutes"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=Efmm1s5ypw8
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 44
+    id: reCTRhLXWw0
+    title: "Checkride Anxiety Tips (Part 2) #studentpilot #privatepilot #pilottraining"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=reCTRhLXWw0
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 45
+    id: F8Y2qO7JIuE
+    title: "How Does an Airplane Fly? Learn in 2 Minutes"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=F8Y2qO7JIuE
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 46
+    id: eRYi5BCMuNk
+    title: "You'll be surprised by how an airplane flies"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=eRYi5BCMuNk
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 47
+    id: _jk4a3KxzOk
+    title: "What do the numbers on the runways mean? Find out in 2 minutes  #studentpilot #privatepilot"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=_jk4a3KxzOk
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 48
+    id: 4s6ebzCaObc
+    title: "Calculating Pressure Altitude (Learn this Private Pilot Skill in 4 Minutes)"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=4s6ebzCaObc
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 49
+    id: SmFEIhjt4F4
+    title: "\"The Silent Killer\" learn all about carb icing in 2 minutes  #privatepilot #flighttraining"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=SmFEIhjt4F4
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 50
+    id: jRNJk1fhsSw
+    title: "How to Control a Helicopter #helicopter #flighttraining"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=jRNJk1fhsSw
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 51
+    id: hRn_S7IQCg8
+    title: "Real Communications From an Engine Failure Emergency (Analysis by John King)"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=hRn_S7IQCg8
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 52
+    id: 5LVUsN87N50
+    title: "When should you declare an emergency? #flighttraining #privatepilot"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=5LVUsN87N50
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 53
+    id: 6LafnLjJotQ
+    title: "Everything you need to know about airplane stability in 5 minutes"
+    creator: "King Schools"
+    creator_url: https://www.youtube.com/@KingSchools
+    url: https://www.youtube.com/watch?v=6LafnLjJotQ
+    kind: video-lesson
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+    collection_id: king-schools-free-private-pilot
+    collection_title: "Free Private Pilot Videos"
+    collection_url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+  - catalog_number: 54
+    id: JkZvNFJ_o4I
+    title: "Air Law for Dumb Pilots"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=JkZvNFJ_o4I
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 55
+    id: p9TyB145cos
+    title: "Engine Thermodynamics for Dumb Pilots"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=p9TyB145cos
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 56
+    id: VqzL7qv5Q3Y
+    title: "Just Aircraft Highlander Crash"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=VqzL7qv5Q3Y
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 57
+    id: RkgiH5srF0c
+    title: "Flight Operations 2 - Aircraft Performance"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=RkgiH5srF0c
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 58
+    id: DmWfOpFbdTA
+    title: "Human Factors 1 - Aviation Physiology"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=DmWfOpFbdTA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 59
+    id: dggLXjzsJ3c
+    title: "Aerodynamics for Dumb Pilots"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=dggLXjzsJ3c
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 60
+    id: DjH9K0Aighs
+    title: "Air Exercise 24d - Navigation Aids"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=DjH9K0Aighs
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 61
+    id: uwg_Zr2AGxs
+    title: "Energy Management for Dumb Pilots"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=uwg_Zr2AGxs
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 62
+    id: ygN-cHEpCQA
+    title: "Air Exercise 22 - Forced Landings"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=ygN-cHEpCQA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 63
+    id: 1ZLNFf_YKHk
+    title: "Air Exercise 24b - Unusual Attitudes"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=1ZLNFf_YKHk
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 64
+    id: aTywE1UrdnI
+    title: "Air Exercise 21 - Precautionary Landings"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=aTywE1UrdnI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 65
+    id: jXZcNLTeHec
+    title: "Air Exercise 20 - Illusions Caused by Drift/Low Flying"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=jXZcNLTeHec
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 66
+    id: 6np7SWc8re4
+    title: "Air Exercise 18 - Landings"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=6np7SWc8re4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 67
+    id: 1en3Db2n8mA
+    title: "Air Exercise 24c - Partial Panel Instrument Flight"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=1en3Db2n8mA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 68
+    id: plSs783MOLE
+    title: "Air Exercise 23b - Inflight Navigation"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=plSs783MOLE
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 69
+    id: E40-C8lvDhI
+    title: "Air Exercise 23a - Navigation - Pre Flight Preparation"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=E40-C8lvDhI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 70
+    id: KS_MiOVea5Y
+    title: "Air Exercise 23c - Diversions"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=KS_MiOVea5Y
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 71
+    id: mnHvHcDxHZ0
+    title: "Air Exercise 24a - Instrument Flying (Full Panel)"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=mnHvHcDxHZ0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 72
+    id: MrrorqSbP9k
+    title: "Air Exercise 29 - Emergencies"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=MrrorqSbP9k
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 73
+    id: Pr52OKBqBe4
+    title: "Air Exercise 16 - Take-Offs"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Pr52OKBqBe4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 74
+    id: NfP1wwvhTxw
+    title: "Air Exercise 17 - Circuits"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=NfP1wwvhTxw
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 75
+    id: Jp8Kh-mzirs
+    title: "Air Exercise 19 - First Solo"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Jp8Kh-mzirs
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 76
+    id: OhT_YVwweh4
+    title: "Air Exercise 15 - Slips"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=OhT_YVwweh4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 77
+    id: kvDjyHoKJUA
+    title: "Air Exercise 14 - Spiral Dives"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=kvDjyHoKJUA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 78
+    id: XJlnErThNOc
+    title: "Air Exercise 13 - Spins"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=XJlnErThNOc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 79
+    id: Pq7ADP6SGV4
+    title: "Air Exercise 12 - Stalls"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Pq7ADP6SGV4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 80
+    id: gwgpudfMfA8
+    title: "Air Exercise 11 - Slow Flight"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=gwgpudfMfA8
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 81
+    id: Lr8vJtW817w
+    title: "Air Exercise 2 - Aircraft Familiarization"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Lr8vJtW817w
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 82
+    id: EVbWmlHpcl0
+    title: "Air Exercise 3 - Ancillary Controls"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=EVbWmlHpcl0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 83
+    id: xyBEKegDodc
+    title: "Air Exercise 4 - Taxiing"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=xyBEKegDodc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 84
+    id: Badsdo3XOuQ
+    title: "Air Exercise 1 - Introduction to Preparatory Ground Instruction"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Badsdo3XOuQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 85
+    id: euiSOEPX-qg
+    title: "Air Exercise 9 - Turns"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=euiSOEPX-qg
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 86
+    id: hnwF8PZt6t4
+    title: "Air Exercise 10 - Range & Endurance"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=hnwF8PZt6t4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 87
+    id: uPxM1EB51C0
+    title: "Air Exercise 8 - Descending"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=uPxM1EB51C0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 88
+    id: JYtIUBPcQpA
+    title: "Air Exercise 7 - Climbing"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=JYtIUBPcQpA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 89
+    id: yLENBMRfrQY
+    title: "Air Exercise 6 - Straight & Level Flight"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=yLENBMRfrQY
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 90
+    id: 9uz9IPU2Qfs
+    title: "Air Exercise 5 - Attitudes & Movements"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=9uz9IPU2Qfs
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 91
+    id: VjzGFKjFaRA
+    title: "Human Factors 1 - Aviation Physiology"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=VjzGFKjFaRA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 92
+    id: KUsaML3gIcE
+    title: "Flight Operations 3 - Wake Turbulence"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=KUsaML3gIcE
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 93
+    id: cMyjWnE1Gys
+    title: "Flight Operations 2 - Aircraft Performance"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=cMyjWnE1Gys
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 94
+    id: 6iivRBt6udg
+    title: "Flight Instruments 10 - Instrument Flying"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=6iivRBt6udg
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 95
+    id: e0UG17gk9Po
+    title: "Flight Instruments 8 - Attitude Indicator"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=e0UG17gk9Po
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 96
+    id: VdarUn7NLys
+    title: "Flight Instruments 6 - Gyroscope"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=VdarUn7NLys
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 97
+    id: B9voRUKPTMA
+    title: "Flight Instruments 4 - Vertical Speed Indicator"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=B9voRUKPTMA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 98
+    id: RF9y3geo_vM
+    title: "Flight Operations 6 - Search and Rescue"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=RF9y3geo_vM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 99
+    id: C2srQW-bI-Q
+    title: "Flight Operations 5 - Weight and Balance"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=C2srQW-bI-Q
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 100
+    id: YwP_WGsWSkM
+    title: "Flight Operations 1 - General"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=YwP_WGsWSkM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 101
+    id: OftyJKdK8K8
+    title: "Theory of Flight 1 - Forces Acting on Airplane"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=OftyJKdK8K8
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 102
+    id: jVkrp99dXCA
+    title: "Navigation 4 - Navigation Computers"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=jVkrp99dXCA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 103
+    id: epNIGqOC74k
+    title: "Theory of Flight 7 - Propellers"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=epNIGqOC74k
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 104
+    id: pCkpQ9lRAsA
+    title: "Introduction"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=pCkpQ9lRAsA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 105
+    id: EhXTODhinKc
+    title: "Flight Instruments 7 - Heading Indicator"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=EhXTODhinKc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 106
+    id: owdcHOjJtZQ
+    title: "Airframes Engines & Systems 10 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=owdcHOjJtZQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 107
+    id: 3XcGch2mMes
+    title: "Airframes Engines & Systems 1 - Engines"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=3XcGch2mMes
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 108
+    id: DIOnLn8jMYM
+    title: "Meteorology 1 - Earths Atmosphere"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=DIOnLn8jMYM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 109
+    id: dX_pxFCxrVU
+    title: "Theory of Flight 6 - Stability"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=dX_pxFCxrVU
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 110
+    id: MQ_70_XXUNY
+    title: "Theory of Flight 5 - Flight Controls"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=MQ_70_XXUNY
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 111
+    id: QsZ5wl-PrPE
+    title: "Theory of Flight 4 - Design of Wing"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=QsZ5wl-PrPE
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 112
+    id: uly9aijBQUM
+    title: "Theory of Flight 3 - Aerofoils"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=uly9aijBQUM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 113
+    id: GAPtUlWqeNg
+    title: "Theory of Flight 2 - Principles of Flight"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=GAPtUlWqeNg
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 114
+    id: F5dkJnmX904
+    title: "Human Factors 6 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=F5dkJnmX904
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 115
+    id: N13HHTcY7qQ
+    title: "Human Factors 5 - Interpersonal Relationships"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=N13HHTcY7qQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 116
+    id: LJyoTf6GysQ
+    title: "Human Factors 4 - Pilot Equipment Relationship"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=LJyoTf6GysQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 117
+    id: y0WJqJ3zO70
+    title: "Human Factors 3 - Aviation Psychology"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=y0WJqJ3zO70
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 118
+    id: GXKW5c4BvY0
+    title: "Human Factors 2 - Pilot Operating Environment"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=GXKW5c4BvY0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 119
+    id: _3qSYYD9pLw
+    title: "Flight Operations 8 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=_3qSYYD9pLw
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 120
+    id: MjRkQ-GTxX4
+    title: "Flight Operations 7 - Critical Surface Contamination"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=MjRkQ-GTxX4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 121
+    id: wG22GlmNomI
+    title: "Flight Operations 4 - Performance Charts"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=wG22GlmNomI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 122
+    id: BDpY_k_7sbE
+    title: "Flight Instruments 9 - Turn and Bank Indicator"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=BDpY_k_7sbE
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 123
+    id: sbwmBe-u9DY
+    title: "Flight Instruments 11 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=sbwmBe-u9DY
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 124
+    id: 2fqcgxpv8L8
+    title: "Flight Instruments 3 - Altimeter"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=2fqcgxpv8L8
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 125
+    id: CwAU8Eq8Q2o
+    title: "Flight Instruments 5 - Magnetic Compass"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=CwAU8Eq8Q2o
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 126
+    id: oqF6uv1EF5Q
+    title: "Flight Instruments 2 - Airspeed Indicator"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=oqF6uv1EF5Q
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 127
+    id: nzzhRas2s74
+    title: "Navigation 5 - Pre-Flight Preparation"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=nzzhRas2s74
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 128
+    id: UhTD-K9zqNQ
+    title: "Flight Instruments 1 - Pitot Static System"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=UhTD-K9zqNQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 129
+    id: xg7-ZEsYZfE
+    title: "Airframes Engines & Systems 8 - Landing Gear"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=xg7-ZEsYZfE
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 130
+    id: zr8dvv472eA
+    title: "Airframes Engines & Systems 9 - Other Aircraft Systems"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=zr8dvv472eA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 131
+    id: iS0FnnMgoxA
+    title: "Theory of Flight 8 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=iS0FnnMgoxA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 132
+    id: HGrwtkQTfrM
+    title: "Airframes Engines & Systems 7 - Airframes"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=HGrwtkQTfrM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 133
+    id: zP3Y2BOr7y0
+    title: "Airframes Engines & Systems 6 - Fuel System"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=zP3Y2BOr7y0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 134
+    id: dzFP3rExnFM
+    title: "Airframes Engines & Systems 5 - Oils"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=dzFP3rExnFM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 135
+    id: 7GN2tYf4ugA
+    title: "Airframes Engines & Systems 4 - Electrical"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=7GN2tYf4ugA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 136
+    id: AVHh2O-GP6w
+    title: "Airframes Engines Systems 3 - Fuel Injection"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=AVHh2O-GP6w
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 137
+    id: szH6MCoyE2s
+    title: "Airframes Engines & Systems 2 - Carburation"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=szH6MCoyE2s
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 138
+    id: VWeSnl_K6s0
+    title: "Navigation 6 - Inflight Navigation"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=VWeSnl_K6s0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 139
+    id: aEfSqC-Nd68
+    title: "Radio 1 - Radio Theory"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=aEfSqC-Nd68
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 140
+    id: l56uB1F5gyc
+    title: "Air Law 20 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=l56uB1F5gyc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 141
+    id: 8DOEMNikWt4
+    title: "Radio 4 - GPS"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=8DOEMNikWt4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 142
+    id: glYbdDiWvec
+    title: "Radio 6 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=glYbdDiWvec
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 143
+    id: rt3vBL7GEek
+    title: "Radio 5 - Other Radio Aids"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=rt3vBL7GEek
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 144
+    id: nygreayebho
+    title: "Radio 2 - VHF Omni Range (VOR)"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=nygreayebho
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 145
+    id: j0iNaVgsUuU
+    title: "Radio 3 - Automatic Direction Finder"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=j0iNaVgsUuU
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 146
+    id: TnWM5352zyM
+    title: "Navigation 7 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=TnWM5352zyM
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 147
+    id: hS3t216CnkI
+    title: "Navigation 3 - Time and Longitude"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=hS3t216CnkI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 148
+    id: MtwauAdSzF0
+    title: "Navigation 2 - Maps and Charts"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=MtwauAdSzF0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 149
+    id: z7vMMQmGFIA
+    title: "Navigation 1 - Definitions"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=z7vMMQmGFIA
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 150
+    id: 6wJwxhP5gBw
+    title: "Meteorology 9 - Turbulence"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=6wJwxhP5gBw
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 151
+    id: UJ30zRhPup0
+    title: "Meteorology 10 - Wind"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=UJ30zRhPup0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 152
+    id: 163U9kou8Cc
+    title: "Meteorology 18 - Weather Forecasts"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=163U9kou8Cc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 153
+    id: 4iGMrDF7elQ
+    title: "Meteorology 20 - Weather Interpretation1"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=4iGMrDF7elQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 154
+    id: _BVnsj7QOZg
+    title: "Meteorology 23 - Review"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=_BVnsj7QOZg
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 155
+    id: sFEgWdKae9U
+    title: "Meteorology 22 - Weather Interpretation 3"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=sFEgWdKae9U
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 156
+    id: lK1LIl3bW68
+    title: "Meteorology 21 - Weather Interpretation2"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=lK1LIl3bW68
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 157
+    id: W0LoY9m8G-I
+    title: "Meteorology 17 - Weather Reports"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=W0LoY9m8G-I
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 158
+    id: lwafIfhePtQ
+    title: "Meteorology 19 - Weather Maps"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=lwafIfhePtQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 159
+    id: JvBcf7uk1uI
+    title: "Meteorology 16 - Meteorological Services"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=JvBcf7uk1uI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 160
+    id: R0ygYD06fUg
+    title: "Meteorology 15 - Hurricanes"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=R0ygYD06fUg
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 161
+    id: AIzl6ke3gc4
+    title: "Meteorology 14 - Thunderstorms"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=AIzl6ke3gc4
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 162
+    id: ctUMF-DFQ2k
+    title: "Meteorology 13 - Icing"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=ctUMF-DFQ2k
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 163
+    id: nFkpHgCEyw8
+    title: "Meteorology 12 - Fronts"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=nFkpHgCEyw8
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 164
+    id: s5_wYRoZelQ
+    title: "Meteorology 11 - Air Masses"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=s5_wYRoZelQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 165
+    id: hXeQoWSOHBc
+    title: "Meteorology 8 - Surface Based Layers"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=hXeQoWSOHBc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 166
+    id: hTzm6hwdWaY
+    title: "Meteorology 7 - Clouds"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=hTzm6hwdWaY
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 167
+    id: -EcL3zpecNQ
+    title: "Meteorology 6 - Stability"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=-EcL3zpecNQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 168
+    id: jDMRHOwLoXI
+    title: "Meteorology 5 - Moisture"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=jDMRHOwLoXI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 169
+    id: yAqGmW9PQhQ
+    title: "Meteorology 4 - Temperature"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=yAqGmW9PQhQ
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 170
+    id: JiqPxuuLPas
+    title: "Meteorology 3 - Altimetry"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=JiqPxuuLPas
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 171
+    id: JvbUkpUvF-E
+    title: "Meteorology 2 Atmospheric Pressure"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=JvbUkpUvF-E
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 172
+    id: Gt5vqHd0j9U
+    title: "Air Law 3 - Aircraft Identification"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Gt5vqHd0j9U
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 173
+    id: 4OlJ2tcMBKw
+    title: "Air Law 19 - Transportation Safety Board"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=4OlJ2tcMBKw
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 174
+    id: Mvd2SbwKTP0
+    title: "Air Law 18 - Technical Records"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Mvd2SbwKTP0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 175
+    id: GiW1_NUrS3Y
+    title: "Air Law 16 - Emergency Equipment"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=GiW1_NUrS3Y
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 176
+    id: wQoK4S2nae0
+    title: "Air Law 17 - Aircraft Maintenance Requirements"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=wQoK4S2nae0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 177
+    id: rQ_cDPMazqc
+    title: "Air Law 7 - Fuel Requirements"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=rQ_cDPMazqc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 178
+    id: XTb-oTZua-A
+    title: "Air Law 6 - Operating and Flight Rules"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=XTb-oTZua-A
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 179
+    id: f825IXfD2Ck
+    title: "Air Law 14 - Aircraft Equipment Requirements"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=f825IXfD2Ck
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 180
+    id: Vq8iKL6SmE8
+    title: "Air Law 15 - Operational Equipment Requirements"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=Vq8iKL6SmE8
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 181
+    id: DPRuhErL5EI
+    title: "Air Law 13 - Aircraft Requirements- General"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=DPRuhErL5EI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 182
+    id: IsusxdP9iSI
+    title: "Air Law 12 - Radiocommunications"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=IsusxdP9iSI
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 183
+    id: 6IhmOMqmtEU
+    title: "Air Law 11 - Air Traffic Services and Procedures"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=6IhmOMqmtEU
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 184
+    id: vohAnYmU0Lc
+    title: "Air Law 10 - Operations near Aerodrome"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=vohAnYmU0Lc
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 185
+    id: l-eSXOAJ4aU
+    title: "Air Law 9 - Flight Preparation and Flight Plans"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=l-eSXOAJ4aU
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 186
+    id: euVAjqvEj4E
+    title: "Air Law 8 - Visual Flight Rules"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=euVAjqvEj4E
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 187
+    id: 3jIobGKXWV0
+    title: "Air Law 5 - Airspace"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=3jIobGKXWV0
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 188
+    id: bjZAbXmSRhY
+    title: "Air Law 4 - Aerodromes"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=bjZAbXmSRhY
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 189
+    id: vOe_S-Bz3Hg
+    title: "Air Law 2 - General Provisions"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=vOe_S-Bz3Hg
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 190
+    id: U6NmewsRc6U
+    title: "Air Law 1 - Licensing Requirements"
+    creator: "Free Pilot Ground School"
+    creator_url: https://www.youtube.com/@freepilotgroundschool2326
+    url: https://www.youtube.com/watch?v=U6NmewsRc6U
+    kind: video-lesson
+    jurisdiction: mixed-or-unspecified
+    access: free-at-check
+    rights: link-only
+    collection_id: free-pilot-ground-school-channel
+    collection_title: "Free Pilot Ground School - Videos"
+    collection_url: https://www.youtube.com/@freepilotgroundschool2326/videos
+  - catalog_number: 191
+    id: faa-pilot-training
+    title: "Pilot Training and Study Materials"
+    creator: "Federal Aviation Administration"
+    creator_url: https://www.faa.gov/
+    url: https://www.faa.gov/pilots/training
+    kind: official-learning-hub
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 192
+    id: faa-faasteam-wings
+    title: "FAASTeam Courses and WINGS Pilot Proficiency Program"
+    creator: "Federal Aviation Administration Safety Team"
+    creator_url: https://www.faa.gov/faasteam
+    url: https://www.faa.gov/faasteam
+    kind: official-course-hub
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 193
+    id: faa-airman-education
+    title: "Airman Education Programs"
+    creator: "Federal Aviation Administration"
+    creator_url: https://www.faa.gov/
+    url: https://www.faa.gov/pilots/training/airman_education
+    kind: official-course-hub
+    jurisdiction: US-FAA
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 194
+    id: aopa-asi-online-learning
+    title: "Air Safety Institute Online Learning"
+    creator: "AOPA Air Safety Institute"
+    creator_url: https://www.aopa.org/training-and-safety/air-safety-institute
+    url: https://www.aopa.org/training-and-safety/online-learning
+    kind: institutional-learning-hub
+    jurisdiction: US-focused
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 195
+    id: aopa-asi-safety-centers
+    title: "Air Safety Institute Safety Centers"
+    creator: "AOPA Air Safety Institute"
+    creator_url: https://www.aopa.org/training-and-safety/air-safety-institute
+    url: https://www.aopa.org/training-and-safety/air-safety-institute/safety-centers
+    kind: institutional-learning-hub
+    jurisdiction: US-focused
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 196
+    id: eaa-proficiency-education
+    title: "Pilot Proficiency and Education Programs"
+    creator: "Experimental Aircraft Association"
+    creator_url: https://www.eaa.org/
+    url: https://www.eaa.org/eaa/pilots/eaa-pilot-proficiency/proficiency-and-education-programs
+    kind: institutional-learning-hub
+    jurisdiction: US-focused
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 197
+    id: ntsb-general-aviation-safety
+    title: "General Aviation Safety Resources"
+    creator: "National Transportation Safety Board"
+    creator_url: https://www.ntsb.gov/
+    url: https://www.ntsb.gov/Advocacy/safety-alerts/Pages/default.aspx
+    kind: official-safety-learning-hub
+    jurisdiction: US
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 198
+    id: noaa-jetstream
+    title: "JetStream Online School for Weather"
+    creator: "NOAA National Weather Service"
+    creator_url: https://www.noaa.gov/
+    url: https://www.noaa.gov/jetstream
+    kind: official-weather-learning-hub
+    jurisdiction: US
+    access: free-at-check
+    rights: link-only
+  - catalog_number: 199
+    id: nasa-beginners-guide-aeronautics
+    title: "Beginner's Guide to Aeronautics"
+    creator: "NASA Glenn Research Center"
+    creator_url: https://www.nasa.gov/glenn/
+    url: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/
+    kind: official-aeronautics-learning-hub
+    jurisdiction: general-science
+    access: free-at-check
+    rights: link-only
