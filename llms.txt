@@ -1,0 +1,11 @@
+# The Open Pilot Handbook
+
+Portable skill: ./skywatch-open-pilot-handbook/SKILL.md
+Curriculum: ./skywatch-open-pilot-handbook/references/curriculum.md
+Free Pilot Training lesson map: ./skywatch-open-pilot-handbook/references/free-pilot-training-map.yaml
+Source registry: ./skywatch-open-pilot-handbook/references/sources.yaml
+Safety boundaries: ./skywatch-open-pilot-handbook/references/safety-boundaries.md
+Pilot journeys: ./skywatch-open-pilot-handbook/references/pilot-journeys.md
+Ownership journey: ./skywatch-open-pilot-handbook/references/ownership-journey.md
+
+Use current primary sources for consequential aviation claims. This repository is educational and cannot make operational or professional determinations.

@@ -1,0 +1,126 @@
+schema_version: 1
+default_jurisdiction: US-FAA
+last_registry_review: 2026-08-04
+sources:
+  - id: ecfr-title-14
+    title: Electronic Code of Federal Regulations, Title 14
+    authority: US Government
+    kind: regulation
+    url: https://www.ecfr.gov/current/title-14
+    freshness: check-live
+  - id: faa-acs
+    title: FAA Airman Certification Standards
+    authority: Federal Aviation Administration
+    kind: certification-standard
+    url: https://www.faa.gov/training_testing/testing/acs
+    freshness: check-live
+  - id: faa-handbooks
+    title: FAA Aviation Handbooks and Manuals
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation
+    freshness: semiannual
+  - id: faa-phak
+    title: Pilot's Handbook of Aeronautical Knowledge
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak
+    freshness: semiannual
+  - id: faa-afh
+    title: Airplane Flying Handbook
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook
+    freshness: semiannual
+  - id: faa-aim
+    title: Aeronautical Information Manual
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/air_traffic/publications/atpubs/aim_html/
+    freshness: check-live
+  - id: faa-chart-users-guide
+    title: Aeronautical Chart User's Guide
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/aero_guide/
+    freshness: check-live
+  - id: faa-basicmed
+    title: BasicMed
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/licenses_certificates/airmen_certification/basic_med
+    freshness: check-live
+  - id: faa-medical
+    title: Medical Certification
+    authority: Federal Aviation Administration
+    kind: official-guidance
+    url: https://www.faa.gov/pilots/medical_certification
+    freshness: check-live
+  - id: faasteam
+    title: FAA Safety Team
+    authority: Federal Aviation Administration
+    kind: safety-education
+    url: https://www.faasafety.gov/
+    freshness: check-live
+  - id: faa-notams
+    title: FAA NOTAM Search
+    authority: Federal Aviation Administration
+    kind: live-operational
+    url: https://notams.aim.faa.gov/notamSearch/
+    freshness: live-only
+  - id: faa-tfr
+    title: FAA Temporary Flight Restrictions
+    authority: Federal Aviation Administration
+    kind: live-operational
+    url: https://tfr.faa.gov/
+    freshness: live-only
+  - id: aviationweather
+    title: Aviation Weather Center
+    authority: NOAA/NWS
+    kind: live-operational
+    url: https://aviationweather.gov/
+    freshness: live-only
+  - id: ntsb-aviation
+    title: NTSB Aviation Accident Reports
+    authority: National Transportation Safety Board
+    kind: investigation
+    url: https://www.ntsb.gov/investigations/AccidentReports/Pages/aviation.aspx
+    freshness: check-live
+  - id: faa-ad-search
+    title: FAA Dynamic Regulatory System
+    authority: Federal Aviation Administration
+    kind: airworthiness
+    url: https://drs.faa.gov/
+    freshness: live-only
+  - id: faa-plane-sense
+    title: Plane Sense — General Aviation Information
+    authority: Federal Aviation Administration
+    kind: ownership-orientation
+    url: https://www.faa.gov/regulations_policies/handbooks_manuals/aviation
+    freshness: semiannual
+  - id: aopa-asi
+    title: AOPA Air Safety Institute
+    authority: AOPA Air Safety Institute
+    kind: institutional-safety
+    url: https://www.aopa.org/training-and-safety/air-safety-institute
+    freshness: check-live
+  - id: eaa-learn-to-fly
+    title: EAA Learn to Fly
+    authority: Experimental Aircraft Association
+    kind: institutional-education
+    url: https://www.eaa.org/eaa/learn-to-fly
+    freshness: annual
+  - id: free-pilot-training
+    title: Free Pilot Training — Private Pilot Ground Course
+    authority: Free Pilot Training
+    kind: creator-education
+    url: https://www.youtube.com/playlist?list=PLKGcDgymP_oYkMrMNcc04gr6JMru4E2xH
+    rights: link-only
+    freshness: annual
+  - id: skywatch-aviation
+    title: SkyWatch Aviation
+    authority: SkyWatch
+    kind: commercial-education
+    url: https://www.skywatch.ai/aircraft-insurance
+    disclosure: Maintainer and commercial aviation insurance provider
+    freshness: check-live

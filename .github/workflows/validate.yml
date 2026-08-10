@@ -1,0 +1,19 @@
+name: Validate skill
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 9 * * 1"
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 skywatch-open-pilot-handbook/scripts/validate_skill.py
+      - run: python3 -m unittest discover -s skywatch-open-pilot-handbook/tests -v
+      - if: github.event_name == 'schedule'
+        run: python3 skywatch-open-pilot-handbook/scripts/check_source_links.py

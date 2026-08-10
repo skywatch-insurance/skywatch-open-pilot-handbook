@@ -1,0 +1,324 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SkyWatch Open Pilot Handbook</title>
+  <meta name="description" content="Explore the SkyWatch Open Pilot Handbook: free aviation guidance, checklists, calculators, and resources from first flight to aircraft ownership.">
+  <link rel="canonical" href="https://glacial-fable-a4sy.here.now/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="SkyWatch Open Pilot Handbook">
+  <meta property="og:title" content="SkyWatch Open Pilot Handbook">
+  <meta property="og:description" content="A free, source-first aviation skill with 64 ground-school lessons, FAA resources, checklists, calculators, and ownership guidance.">
+  <meta property="og:url" content="https://glacial-fable-a4sy.here.now/">
+  <meta property="og:image" content="https://glacial-fable-a4sy.here.now/assets/skywatch-open-pilot-handbook-social.png">
+  <meta property="og:image:secure_url" content="https://glacial-fable-a4sy.here.now/assets/skywatch-open-pilot-handbook-social.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="2282">
+  <meta property="og:image:height" content="1336">
+  <meta property="og:image:alt" content="SkyWatch Open Pilot Handbook—from first flight to the first year of aircraft ownership.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SkyWatch Open Pilot Handbook">
+  <meta name="twitter:description" content="A free, source-first aviation skill with 64 ground-school lessons and authoritative pilot resources.">
+  <meta name="twitter:image" content="https://glacial-fable-a4sy.here.now/assets/skywatch-open-pilot-handbook-social.png">
+  <meta name="twitter:image:alt" content="SkyWatch Open Pilot Handbook—from first flight to the first year of aircraft ownership.">
+  <style>
+    :root { color-scheme: dark; --sky:#77d6ff; --sky2:#b9ebff; --ink:#eef8ff; --muted:#9fb3c3; --line:rgba(183,226,247,.16); --panel:rgba(11,30,44,.74); --deep:#06131d; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); font:16px/1.6 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; background:radial-gradient(circle at 82% 4%,#164b69 0,transparent 23%),radial-gradient(circle at 8% 32%,#0b3850 0,transparent 22%),var(--deep); }
+    a { color:inherit; }
+    .wrap { width:min(1120px,calc(100% - 40px)); margin:auto; }
+    header { position:sticky; top:0; z-index:10; border-bottom:1px solid var(--line); background:rgba(6,19,29,.82); backdrop-filter:blur(16px); }
+    nav { min-height:68px; display:flex; align-items:center; justify-content:space-between; gap:24px; }
+    .brand { display:inline-flex; align-items:center; text-decoration:none; }
+    .brand img { display:block; width:154px; height:auto; }
+    .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+    .navlinks { display:flex; gap:22px; align-items:center; }
+    .navlinks a { color:#fff; font-size:14px; font-weight:700; text-decoration:none; }
+    .navlinks a:hover { color:var(--sky2); }
+    .navlinks .button.primary { color:#fff; background:#087ca6; box-shadow:0 12px 34px rgba(8,124,166,.3); }
+    .navlinks .button.primary:hover { color:#fff; background:#0a8fbe; }
+    .hero { position:relative; min-height:700px; display:grid; align-items:center; padding:86px 0 76px; overflow:hidden; }
+    .hero::before { content:""; position:absolute; width:520px; height:520px; right:-160px; top:20px; border:1px solid rgba(119,214,255,.13); border-radius:50%; box-shadow:0 0 90px rgba(119,214,255,.07),inset 0 0 90px rgba(119,214,255,.03); pointer-events:none; animation:orbit-drift 9s ease-in-out infinite; }
+    .hero-grid { display:grid; grid-template-columns:minmax(0,.94fr) minmax(430px,1.06fr); gap:46px; align-items:center; }
+    .eyebrow { margin:0 0 16px; color:var(--sky); font-size:13px; font-weight:800; letter-spacing:.15em; text-transform:uppercase; }
+    h1 { margin:0; max-width:780px; font-size:clamp(48px,6.3vw,76px); line-height:.94; letter-spacing:-.055em; }
+    .lede { max-width:720px; margin:28px 0 32px; color:var(--muted); font-size:clamp(18px,2.2vw,22px); }
+    .actions { display:flex; flex-wrap:wrap; gap:12px; }
+    .hero-chips { display:flex; flex-wrap:wrap; gap:8px; margin-top:24px; }
+    .hero-chips span { display:inline-flex; align-items:center; gap:7px; padding:7px 11px; border:1px solid var(--line); border-radius:999px; color:var(--sky2); background:rgba(119,214,255,.04); font-size:12px; font-weight:750; }
+    .hero-chips span::before { content:""; width:6px; height:6px; border-radius:50%; background:var(--sky); box-shadow:0 0 10px rgba(119,214,255,.75); }
+    .hero-demo { position:relative; padding:14px; border:1px solid rgba(119,214,255,.24); border-radius:25px; background:linear-gradient(145deg,rgba(12,45,62,.92),rgba(5,22,32,.9)); box-shadow:0 32px 100px rgba(0,0,0,.42),0 0 55px rgba(119,214,255,.08); animation:package-in .8s cubic-bezier(.2,.8,.2,1) .18s both,package-breathe 5s ease-in-out 3s infinite; }
+    .hero-demo-head { display:flex; align-items:center; justify-content:space-between; gap:14px; padding:4px 4px 13px; }
+    .hero-demo-head strong { font-size:15px; }
+    .hero-demo-head span { color:var(--sky); font-size:11px; font-weight:850; letter-spacing:.1em; text-transform:uppercase; }
+    .hero-demo .video-shell { border-radius:15px; }
+    .hero-demo-foot { display:flex; justify-content:space-between; gap:12px; padding:12px 4px 2px; color:var(--muted); font-size:12px; }
+    .hero-demo-foot b { color:var(--sky2); }
+    .button { display:inline-flex; align-items:center; justify-content:center; min-height:54px; padding:0 22px; border-radius:14px; font-weight:800; text-decoration:none; transition:transform .15s ease,border-color .15s ease,background .15s ease; }
+    .button:hover { transform:translateY(-2px); }
+    .primary { color:#04121a; background:var(--sky); box-shadow:0 12px 34px rgba(119,214,255,.2); }
+    .secondary { border:1px solid var(--line); background:rgba(255,255,255,.035); }
+    .package { position:relative; overflow:hidden; padding:28px; border:1px solid var(--line); border-radius:24px; background:linear-gradient(145deg,rgba(12,38,53,.92),rgba(7,25,36,.84)); box-shadow:0 30px 90px rgba(0,0,0,.28),0 0 0 rgba(119,214,255,0); animation:package-in .8s cubic-bezier(.2,.8,.2,1) .18s both,package-breathe 5s ease-in-out 3s infinite; }
+    .package::before { content:""; position:absolute; inset:0; border-radius:inherit; padding:1px; background:linear-gradient(120deg,transparent 16%,rgba(119,214,255,.65),transparent 58%); background-size:240% 100%; -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0); -webkit-mask-composite:xor; mask-composite:exclude; pointer-events:none; animation:border-scan 5.5s ease-in-out 1.2s infinite; }
+    .package::after { content:""; position:absolute; top:-40%; left:-55%; width:44%; height:180%; transform:rotate(18deg); background:linear-gradient(90deg,transparent,rgba(119,214,255,.06),transparent); pointer-events:none; animation:light-sweep 5.5s ease-in-out 1.2s infinite; }
+    .package-head { position:relative; z-index:1; display:flex; align-items:center; justify-content:space-between; gap:14px; margin-bottom:18px; }
+    .package-head p { margin:0; color:var(--muted); font-size:14px; }
+    .verified { display:inline-flex; align-items:center; gap:7px; opacity:0; color:var(--sky2); font-size:11px; font-weight:800; letter-spacing:.08em; text-transform:uppercase; animation:verified-in .45s ease 2.7s forwards; }
+    .verified i { width:7px; height:7px; border-radius:50%; background:#69f0ae; box-shadow:0 0 0 0 rgba(105,240,174,.4); animation:status-pulse 2.2s ease-out 3s infinite; }
+    .tree { position:relative; z-index:1; margin:0; color:var(--sky2); font:13px/1.75 ui-monospace,SFMono-Regular,Menlo,monospace; }
+    .tree-line { display:block; opacity:0; transform:translateX(-12px); filter:blur(3px); animation:tree-line-in .42s cubic-bezier(.2,.8,.2,1) calc(.65s + var(--i) * .24s) forwards; }
+    .tree-line.root { position:relative; margin-bottom:2px; color:#d5f5ff; font-weight:800; }
+    .tree-line.root::after { content:""; display:inline-block; width:7px; height:1.15em; margin-left:5px; vertical-align:-.18em; background:var(--sky); animation:cursor-blink .75s steps(1,end) .7s 3; }
+    @keyframes package-in { from{opacity:0;transform:translateY(20px) scale(.97)} to{opacity:1;transform:translateY(0) scale(1)} }
+    @keyframes package-breathe { 0%,100%{box-shadow:0 30px 90px rgba(0,0,0,.28),0 0 0 rgba(119,214,255,0)} 50%{box-shadow:0 34px 100px rgba(0,0,0,.34),0 0 34px rgba(119,214,255,.08)} }
+    @keyframes tree-line-in { to{opacity:1;transform:translateX(0);filter:blur(0)} }
+    @keyframes cursor-blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes verified-in { from{opacity:0;transform:translateY(5px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes status-pulse { 0%{box-shadow:0 0 0 0 rgba(105,240,174,.45)} 70%,100%{box-shadow:0 0 0 8px rgba(105,240,174,0)} }
+    @keyframes border-scan { 0%,15%{background-position:180% 0} 55%,100%{background-position:-60% 0} }
+    @keyframes light-sweep { 0%,15%{left:-55%;opacity:0} 28%{opacity:1} 58%,100%{left:125%;opacity:0} }
+    @keyframes orbit-drift { 0%,100%{transform:translate3d(0,0,0) scale(1)} 50%{transform:translate3d(-20px,18px,0) scale(1.04)} }
+    .stats { display:grid; grid-template-columns:repeat(3,1fr); margin-top:50px; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+    .stat { padding:22px 18px 22px 0; }
+    .stat strong { display:block; font-size:25px; }
+    .stat span { color:var(--muted); font-size:14px; }
+    section { padding:90px 0; border-top:1px solid var(--line); }
+    .section-head { display:grid; grid-template-columns:.65fr 1.35fr; gap:50px; margin-bottom:42px; }
+    .section-head h2 { margin:0; font-size:clamp(32px,4.3vw,52px); line-height:1; letter-spacing:-.045em; }
+    .section-head p { margin:0; max-width:680px; color:var(--muted); font-size:18px; }
+    .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }
+    .card { padding:26px; border:1px solid var(--line); border-radius:20px; background:rgba(255,255,255,.025); }
+    .number { display:grid; width:34px; height:34px; place-items:center; margin-bottom:34px; border:1px solid rgba(119,214,255,.28); border-radius:50%; color:var(--sky); font-weight:850; }
+    .card h3 { margin:0 0 10px; font-size:20px; }
+    .card p { margin:0; color:var(--muted); }
+    .code { margin-top:14px; padding:13px 15px; overflow:auto; border:1px solid var(--line); border-radius:12px; color:var(--sky2); background:#071722; font:13px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace; }
+    .flow { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; overflow:hidden; border:1px solid var(--line); border-radius:22px; background:var(--line); }
+    .flow article { padding:28px; background:#091b27; }
+    .flow small { color:var(--sky); font-weight:800; text-transform:uppercase; letter-spacing:.12em; }
+    .flow h3 { margin:14px 0 8px; }
+    .flow p { margin:0; color:var(--muted); font-size:14px; }
+    .demo { display:grid; grid-template-columns:.58fr 1.42fr; gap:34px; align-items:center; margin-top:34px; padding:34px; border:1px solid var(--line); border-radius:26px; background:linear-gradient(145deg,rgba(12,38,53,.78),rgba(7,25,36,.64)); }
+    .showcase { display:none; padding:34px 0 70px; border-top:0; }
+    .showcase .demo { margin-top:0; }
+    .demo-copy .eyebrow { margin-bottom:12px; }
+    .demo-copy h3 { margin:0 0 14px; font-size:clamp(28px,3.5vw,42px); line-height:1.04; letter-spacing:-.04em; }
+    .demo-copy p { margin:0 0 20px; color:var(--muted); }
+    .demo-points { display:grid; gap:9px; color:var(--sky2); font-size:14px; font-weight:700; }
+    .demo-points span::before { content:"✓"; margin-right:9px; color:var(--sky); }
+    .video-shell { position:relative; overflow:hidden; border:1px solid rgba(119,214,255,.2); border-radius:20px; background:#041722; box-shadow:0 24px 70px rgba(0,0,0,.32); }
+    .video-shell::after { content:""; position:absolute; inset:0; border-radius:inherit; pointer-events:none; box-shadow:inset 0 0 0 1px rgba(255,255,255,.035); }
+    .video-shell video { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; }
+    .sources { display:grid; grid-template-columns:repeat(2,1fr); gap:14px; }
+    .source { display:flex; gap:18px; padding:22px; border:1px solid var(--line); border-radius:16px; text-decoration:none; background:rgba(255,255,255,.02); }
+    .source:hover { border-color:rgba(119,214,255,.4); }
+    .source b { color:var(--sky); }
+    .source p { margin:3px 0 0; color:var(--muted); font-size:14px; }
+    .faq { display:grid; grid-template-columns:.7fr 1.3fr; gap:50px; }
+    .faq h2 { margin:0; font-size:clamp(34px,5vw,54px); line-height:1; letter-spacing:-.045em; }
+    details { padding:20px 0; border-bottom:1px solid var(--line); }
+    details:first-child { border-top:1px solid var(--line); }
+    summary { cursor:pointer; font-weight:800; list-style:none; }
+    summary::-webkit-details-marker { display:none; }
+    summary::after { content:"+"; float:right; color:var(--sky); font-size:22px; }
+    details[open] summary::after { content:"−"; }
+    details p { margin:12px 38px 0 0; color:var(--muted); }
+    .final { text-align:center; }
+    .final h2 { margin:0 auto 18px; max-width:780px; font-size:clamp(38px,6vw,66px); line-height:1; letter-spacing:-.05em; }
+    .final p { margin:0 auto 28px; max-width:670px; color:var(--muted); font-size:18px; }
+    footer { padding:34px 0; border-top:1px solid var(--line); color:var(--muted); font-size:14px; }
+    footer .wrap { display:flex; justify-content:space-between; gap:20px; }
+    .reveal-ready .reveal { opacity:0; transform:translateY(22px); transition:opacity .7s cubic-bezier(.2,.8,.2,1),transform .7s cubic-bezier(.2,.8,.2,1); }
+    .reveal-ready .reveal.is-visible { opacity:1; transform:none; }
+    @media (prefers-reduced-motion:reduce) { html{scroll-behavior:auto}.hero::before,.package,.package::before,.package::after,.verified,.verified i,.tree-line,.tree-line.root::after{animation:none!important}.verified,.tree-line{opacity:1;transform:none;filter:none}.tree-line.root::after{display:none}.reveal-ready .reveal{opacity:1;transform:none;transition:none} }
+    @media (max-width:980px) { .navlinks a:not(.button){display:none}.hero{min-height:0}.hero-grid,.section-head,.faq,.demo{grid-template-columns:1fr}.hero-demo{display:none}.showcase{display:block}.package{display:none}.grid{grid-template-columns:1fr}.flow{grid-template-columns:1fr 1fr}.sources{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr 1fr}.section-head{gap:18px}.faq{gap:28px}.demo{padding:24px} }
+    @media (max-width:520px) {
+      .wrap{width:min(100% - 26px,1120px)}
+      header nav{min-height:62px}.navlinks{gap:0}.navlinks .button.primary{min-height:40px;padding:0 13px;border-radius:11px;font-size:0}.navlinks .button.primary::after{content:"Download";font-size:13px}
+      .hero{padding:54px 0 32px}.hero::before{width:330px;height:330px;right:-185px;top:50px}.hero h1{font-size:clamp(45px,14vw,62px);line-height:.93}.lede{margin:22px 0 25px;font-size:18px;line-height:1.52}.hero-chips{margin-top:19px;flex-wrap:nowrap;overflow-x:auto;padding-bottom:5px;scrollbar-width:none}.hero-chips::-webkit-scrollbar{display:none}.hero-chips span{flex:0 0 auto}
+      .showcase{padding:12px 0 56px;overflow:hidden}.showcase .wrap{width:100%}.showcase .demo{gap:23px;padding:26px 13px 13px;border-width:1px 0;border-radius:0;background:linear-gradient(180deg,rgba(12,46,64,.92),rgba(5,22,32,.8))}.demo-copy{padding:0 7px}.demo-copy h3{font-size:34px}.demo-copy p{font-size:15px}.demo-points{grid-template-columns:1fr;gap:7px}.video-shell{border-radius:16px;box-shadow:0 18px 60px rgba(0,0,0,.45),0 0 34px rgba(119,214,255,.08)}
+      section{padding:68px 0}.flow{grid-template-columns:1fr}.stats{grid-template-columns:repeat(3,1fr);margin-top:32px}.stat{padding:15px 8px 15px 0;border-bottom:0}.stat strong{font-size:22px}.stat span{display:block;font-size:11px;line-height:1.35}.actions .button{width:100%}footer .wrap{display:block}.brand img{width:126px}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="wrap" aria-label="Main navigation">
+      <a class="brand" href="#top" aria-label="SkyWatch Open Pilot Handbook home">
+        <img src="assets/skywatch-logo-white.png" alt="SkyWatch">
+        <span class="sr-only">Open Pilot Handbook</span>
+      </a>
+      <div class="navlinks">
+        <a href="#use">How to use?</a>
+        <a href="#works">How it works?</a>
+        <a href="#references">References</a>
+        <a href="#faq">FAQs</a>
+        <a class="button primary" href="https://github.com/skywatch-insurance/skywatch-open-pilot-handbook">View on GitHub</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top">
+    <div class="hero">
+      <div class="wrap">
+        <div class="hero-grid">
+          <div>
+            <p class="eyebrow">Open-source aviation skill</p>
+            <h1>From first flight to first year of ownership.</h1>
+            <p class="lede">A source-first skill that helps pilots learn, plan, ask better questions, and navigate general aviation with clear safety boundaries.</p>
+            <div class="actions">
+              <a class="button primary" href="https://github.com/skywatch-insurance/skywatch-open-pilot-handbook">Explore the GitHub repository</a>
+              <a class="button secondary" href="https://github.com/skywatch-insurance/skywatch-open-pilot-handbook/blob/main/skywatch-open-pilot-handbook/SKILL.md">View SKILL.md</a>
+            </div>
+            <div class="hero-chips" aria-label="Handbook highlights">
+              <span>64 lessons</span><span>12 modules</span><span>FAA source-first</span><span>Free &amp; open</span>
+            </div>
+          </div>
+          <aside class="hero-demo" aria-label="SkyWatch Co-Pilot demonstration">
+            <div class="hero-demo-head"><strong>See it in action</strong><span>64-lesson Co-Pilot</span></div>
+            <div class="video-shell">
+              <video class="copilot-video" data-demo-view="desktop" autoplay muted loop playsinline controls preload="metadata" poster="assets/skywatch-64-lessons-demo-v2.png" aria-label="SkyWatch Co-Pilot 64-lesson learning path demonstration">
+                <source src="assets/skywatch-64-lessons-demo-v2.mp4" type="video/mp4">
+              </video>
+            </div>
+            <div class="hero-demo-foot"><span>Ask one question.</span><b>Get a complete learning path →</b></div>
+          </aside>
+        </div>
+        <div class="stats">
+          <div class="stat"><strong>64</strong><span>mapped ground lessons</span></div>
+          <div class="stat"><strong>12</strong><span>free aviation playlists</span></div>
+          <div class="stat"><strong>10</strong><span>reusable tools and templates</span></div>
+        </div>
+      </div>
+    </div>
+
+    <section class="showcase" aria-labelledby="demo-title">
+      <div class="wrap">
+        <div class="demo reveal">
+          <div class="demo-copy">
+            <p class="eyebrow">See it in action</p>
+            <h3 id="demo-title">One question. A complete learning path.</h3>
+            <p>Watch SkyWatch Co-Pilot turn a new pilot’s goal into a structured 64-lesson private-pilot curriculum, supported by FAA references, free training videos, quizzes, and practical tools.</p>
+            <div class="demo-points">
+              <span>64 mapped lessons across 12 modules</span>
+              <span>FAA handbooks, ACS, and creator resources</span>
+              <span>Explanations, quizzes, and progress guidance</span>
+            </div>
+          </div>
+          <div class="video-shell">
+            <video id="copilot-demo" class="copilot-video" data-demo-view="mobile" autoplay muted loop playsinline controls preload="metadata" poster="assets/skywatch-64-lessons-demo-v2.png" aria-label="SkyWatch Co-Pilot 64-lesson learning path demonstration">
+              <source src="assets/skywatch-64-lessons-demo-v2.mp4" type="video/mp4">
+              Your browser does not support embedded video. <a href="assets/skywatch-64-lessons-demo-v2.mp4">Download the animation</a>.
+            </video>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="use">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>How to use it?</h2>
+          <p>Open the public GitHub repository to explore, install, fork, or contribute to the skill. The repository keeps the portable skill in one top-level folder with <code>SKILL.md</code> directly inside it.</p>
+        </div>
+        <div class="grid">
+          <article class="card"><span class="number">1</span><h3>Open GitHub</h3><p>Explore the public repository, review the sources, and use GitHub’s Code menu to clone, fork, or download the project.</p></article>
+          <article class="card"><span class="number">2</span><h3>Install the skill</h3><p>Place the <code>skywatch-open-pilot-handbook</code> folder in your agent’s skills directory, or package that folder as a ZIP for Claude.</p></article>
+          <article class="card"><span class="number">3</span><h3>Ask naturally</h3><p>Invoke the skill by name and describe your stage, jurisdiction, aircraft, goal, and whether you are learning or planning.</p><div class="code">Use $skywatch-open-pilot-handbook to build a six-month private-pilot study plan.</div></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="works">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>How it works?</h2>
+          <p>The skill does not dump an aviation encyclopedia into every conversation. It identifies the task, loads only the relevant references and tools, and applies explicit verification and professional-review boundaries.</p>
+        </div>
+        <div class="flow">
+          <article><small>01 · Classify</small><h3>Understand the pilot</h3><p>Identifies training stage, jurisdiction, aircraft context, and whether the request is education, planning, live operations, or professional advice.</p></article>
+          <article><small>02 · Retrieve</small><h3>Load what matters</h3><p>Routes to the right curriculum module, ownership journey, checklist, calculator, playlist, or source record.</p></article>
+          <article><small>03 · Ground</small><h3>Use authority first</h3><p>Prefers current FAA, eCFR, NTSB, NOAA/NWS, and approved aircraft documents over creator content or model memory.</p></article>
+          <article><small>04 · Escalate</small><h3>Know the boundary</h3><p>Points to a CFI, A&P/IA, AME, attorney, CPA, title professional, or licensed insurance representative when judgment is required.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="references">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>References</h2>
+          <p>Creator videos shape the learning sequence; current primary sources control consequential claims. The repository records source type, freshness, rights, and review expectations.</p>
+        </div>
+        <div class="sources">
+          <a class="source" href="https://www.faa.gov/training_testing/testing/acs"><b>FAA</b><div><strong>Airman Certification Standards</strong><p>The current knowledge, risk-management, and skill framework.</p></div></a>
+          <a class="source" href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation"><b>FAA</b><div><strong>Aviation handbooks and manuals</strong><p>Primary educational anchors for aerodynamics, weather, navigation, and operations.</p></div></a>
+          <a class="source" href="https://www.ecfr.gov/current/title-14"><b>eCFR</b><div><strong>Title 14 regulations</strong><p>Current federal aviation regulations; checked live when a rule matters.</p></div></a>
+          <a class="source" href="https://aviationweather.gov/"><b>NWS</b><div><strong>Aviation Weather Center</strong><p>Live official aviation-weather products—not cached inside the skill.</p></div></a>
+          <a class="source" href="https://www.youtube.com/playlist?list=PLKGcDgymP_oYkMrMNcc04gr6JMru4E2xH"><b>Video</b><div><strong>Free Pilot Training</strong><p>The primary 64-lesson syllabus input, linked without transcript republication.</p></div></a>
+          <a class="source" href="skywatch-open-pilot-handbook/references/playlists.yaml"><b>Open</b><div><strong>Free playlist registry</strong><p>Additional ground-school, safety, weather, ownership, and maintenance playlists.</p></div></a>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <div class="wrap faq">
+        <h2>Frequently asked questions</h2>
+        <div>
+          <details open><summary>Is this a complete, approved ground school?</summary><p>No. It is an open learning and decision-support layer aligned to authoritative sources. It does not issue graduation certificates, endorsements, or replace an instructor or approved course.</p></details>
+          <details><summary>How do I install it in Claude?</summary><p>Open the GitHub repository and download or clone it. Package only the <code>skywatch-open-pilot-handbook</code> folder as a ZIP, keeping <code>SKILL.md</code> directly inside that single top-level folder, then upload it in Claude’s skill area.</p></details>
+          <details><summary>Does it include Free Pilot Training transcripts?</summary><p>The transcripts were used to understand topic sequencing and learning objectives, but are not republished. The repository links to the original videos and records them as link-only unless broader rights are granted.</p></details>
+          <details><summary>Can the skill tell me whether a flight is safe?</summary><p>No. It can teach a decision framework and help you find current sources, but it cannot make live go/no-go, weather, NOTAM, airworthiness, or emergency-authority decisions.</p></details>
+          <details><summary>Can it interpret my insurance policy or recommend tax and legal decisions?</summary><p>No. It can explain general concepts and prepare questions, but the actual policy and licensed insurance review control coverage. Legal and tax actions require qualified professionals familiar with your facts and jurisdiction.</p></details>
+          <details><summary>Can instructors and aircraft owners contribute?</summary><p>Yes. The package includes contribution rules, source requirements, safety review roles, rights controls, and templates for corrections. Safety-critical changes require both domain and maintainer review.</p></details>
+          <details><summary>What is included in the GitHub repository?</summary><p>The repository includes the portable skill, curriculum and source maps, practical tools, governance, GitHub workflows, rights ledger, contribution documentation, and the website source.</p></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="final">
+      <div class="wrap">
+        <h2>Install a more useful aviation copilot.</h2>
+        <p>Download the Claude-ready skill or inspect every file first. The handbook is open, sourced, and designed to improve through expert contribution.</p>
+        <div class="actions" style="justify-content:center">
+          <a class="button primary" href="https://github.com/skywatch-insurance/skywatch-open-pilot-handbook">Explore on GitHub</a>
+          <a class="button secondary" href="https://github.com/skywatch-insurance/skywatch-open-pilot-handbook/fork">Fork the project</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer><div class="wrap"><span>Maintained by SkyWatch with community contributors.</span><span>Educational use · US/FAA scope · Apache-2.0</span></div></footer>
+  <script>
+    document.documentElement.classList.add("reveal-ready");
+    const reveals = document.querySelectorAll(".reveal, .card, .flow article, .source");
+    reveals.forEach((item) => item.classList.add("reveal"));
+    if ("IntersectionObserver" in window) {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      }, {threshold: .12, rootMargin: "0px 0px -24px"});
+      reveals.forEach((item) => observer.observe(item));
+    } else {
+      reveals.forEach((item) => item.classList.add("is-visible"));
+    }
+    const demoVideos = document.querySelectorAll(".copilot-video");
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const mobileView = window.matchMedia("(max-width: 980px)");
+    const syncDemoPlayback = () => {
+      demoVideos.forEach((video) => {
+        const shouldPlay = !reducedMotion.matches && ((mobileView.matches && video.dataset.demoView === "mobile") || (!mobileView.matches && video.dataset.demoView === "desktop"));
+        if (shouldPlay) video.play().catch(() => {}); else video.pause();
+      });
+    };
+    syncDemoPlayback();
+    mobileView.addEventListener?.("change", syncDemoPlayback);
+    reducedMotion.addEventListener?.("change", syncDemoPlayback);
+  </script>
+</body>
+</html>

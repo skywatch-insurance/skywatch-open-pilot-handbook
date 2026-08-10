@@ -1,0 +1,6 @@
+# Replace placeholders with verified GitHub handles before public launch.
+* @skywatch-ai/open-pilot-maintainers
+/skywatch-open-pilot-handbook/references/curriculum.md @skywatch-ai/cfi-reviewers
+/skywatch-open-pilot-handbook/references/safety-boundaries.md @skywatch-ai/safety-reviewers
+/skywatch-open-pilot-handbook/references/ownership-journey.md @skywatch-ai/ownership-reviewers
+/skywatch-open-pilot-handbook/scripts/weight_balance.py @skywatch-ai/cfi-reviewers

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this project, cite the repository and the authoritative sources used by the relevant module.
+title: SkyWatch Open Pilot Handbook
+type: software
+authors:
+  - name: SkyWatch and community contributors
+version: 0.1.0
+date-released: 2026-08-04
+license: Apache-2.0
+repository-code: https://github.com/skywatch-ai/open-pilot-handbook
+url: https://www.skywatch.ai/

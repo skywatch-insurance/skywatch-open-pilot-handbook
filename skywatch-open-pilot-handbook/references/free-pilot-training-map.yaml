@@ -1,0 +1,87 @@
+schema_version: 1
+playlist:
+  title: Private Pilot Ground Course
+  creator: Free Pilot Training
+  url: https://www.youtube.com/playlist?list=PLKGcDgymP_oYkMrMNcc04gr6JMru4E2xH
+  videos_at_check: 64
+  checked: 2026-08-04
+  transcript_use: Auto-caption transcripts reviewed for topic sequencing and syllabus mapping; not redistributed and not treated as authority.
+  rights: link-only
+modules:
+  M01: Aerodynamics and aircraft control
+  M02: Airspace and operating environment
+  M03: Charts, time, and pilotage
+  M04: Flight instruments
+  M05: Communications and navigation systems
+  M06: Weather and weather decisions
+  M07: Cross-country planning
+  M08: Weight, balance, and performance
+  M09: Regulations, documents, and maintenance responsibility
+  M10: Aeromedical factors and risk management
+  M11: Airport and aircraft operations
+lessons:
+  - {n: 1, id: pe5Fx6QxSc4, module: M01, title: "YouTube's ONLY Complete Private Pilot Ground Course (Lesson 1)"}
+  - {n: 2, id: -FmHg04rleg, module: M01, title: "How an Airplane Creates Lift | Complete PPL Ground Course (Lesson 2)"}
+  - {n: 3, id: hIv-BLf6PoE, module: M01, title: "What Causes an Airplane to STALL? | Complete PPL Ground Course (Lesson 3)"}
+  - {n: 4, id: jAFgYWqvfuA, module: M01, title: "How to Avoid a SPIN! (Private Pilot Ground Lesson 4)"}
+  - {n: 5, id: aOxFKDOn5dY, module: M01, title: "How to Control an Airplane (PPL Lesson 5)"}
+  - {n: 6, id: 2t6tT77QFW4, module: M01, title: "Aircraft Stability Explained (PPL Lesson 6)"}
+  - {n: 7, id: dEJqNcEI8tI, module: M01, title: "Aircraft Controllability EXPLAINED (Private Pilot Ground Lesson 7)"}
+  - {n: 8, id: 7S8yxrlulSA, module: M01, title: "WHY do Airplanes have FLAPS? (FREE PPL Ground Lesson 8)"}
+  - {n: 9, id: xz8x9e6t1SA, module: M01, title: "How to Turn an Airplane (FREE PPL Ground Lesson 9)"}
+  - {n: 10, id: F-umUhlp4n4, module: M01, title: "Load Factor BASICS explained (EASY to Understand)"}
+  - {n: 11, id: UoqHq9YC6Rk, module: M01, title: "How to Calculate Load Factor (Easy for Pilots)"}
+  - {n: 12, id: TX5eFcLlE1o, module: M01, title: "You WILL Understand V-Speeds after Watching This! (EASY)"}
+  - {n: 13, id: dsnKmXeSPqk, module: M01, title: "Left Turning Tendencies EXPLAINED"}
+  - {n: 14, id: -34-Igi5UMc, module: M01, title: "Ground Effect & Wake Turbulence Explained (EASY)"}
+  - {n: 15, id: ba5MTbfy5Ck, module: M02, title: "Types of Airspace (Explained for Pilots)"}
+  - {n: 16, id: gS9RgkRIPZ4, module: M02, title: "Class B Airspace — What You Need to Know"}
+  - {n: 17, id: M-2VWNQ2Ukk, module: M02, title: "Class C Airspace"}
+  - {n: 18, id: wYH4gQ-pOmE, module: M02, title: "Class D Airspace"}
+  - {n: 19, id: PEeUvw1i9hs, module: M02, title: "Class E Airspace Made Easy"}
+  - {n: 20, id: 0Liq4ZB5m6U, module: M02, title: "Class G Airspace Explained"}
+  - {n: 21, id: doKwv3ylx8E, module: M02, title: "Restricted Areas and Other Special Use Airspace"}
+  - {n: 22, id: MOqtfy45qKQ, module: M02, title: "Other Airspace Private Pilots Must Know"}
+  - {n: 23, id: a7KYDQOAeFk, module: M03, title: "What is Zulu Time?"}
+  - {n: 24, id: AaI_DjRwnhk, module: M03, title: "Latitude and Longitude Explained (Aviation)"}
+  - {n: 25, id: TMkqcorBcdU, module: M03, title: "VFR Sectional Explained — Airports"}
+  - {n: 26, id: 5KpJzNHLe-M, module: M03, title: "Using a VFR Sectional to Pick Safe Altitudes"}
+  - {n: 27, id: Kohx5s6BCRQ, module: M03, title: "VFR Navigational Symbols Explained"}
+  - {n: 28, id: JySkSwAnwos, module: M04, title: "Heading Indicator — How It Works"}
+  - {n: 29, id: ZBU55yIje-Y, module: M04, title: "How the Attitude Indicator Works"}
+  - {n: 30, id: _SvHsQZdMZ8, module: M04, title: "Turn Coordinator vs Turn and Slip Indicator"}
+  - {n: 31, id: QkfC43VTZaE, module: M04, title: "How the Pitot-Static System Works"}
+  - {n: 32, id: q27N5EFWmpM, module: M04, title: "What Pilots Should Know About the Altimeter"}
+  - {n: 33, id: WC-iOlckdf4, module: M04, title: "Magnetic Compass"}
+  - {n: 34, id: oWxeAqcNSJU, module: M04, title: "Training for Digital Instruments"}
+  - {n: 35, id: ndHyt1fbBcM, module: M05, title: "Understanding ATC"}
+  - {n: 36, id: -_xBS6vTO9E, module: M05, title: "Non-Towered Radio Calls Made Easy"}
+  - {n: 37, id: 0JRVTlLJ7hk, module: M05, title: "What is ATIS and How to Use It"}
+  - {n: 38, id: 6S95qXQNTzM, module: M05, title: "Understanding VORs"}
+  - {n: 39, id: yh73ip84M4I, module: M05, title: "GPS Navigation Explained"}
+  - {n: 40, id: A4eIGJrntXg, module: M06, title: "Weather Basics"}
+  - {n: 41, id: DCJ7HbF1zWQ, module: M06, title: "Breaking the Weather Code"}
+  - {n: 42, id: aMsLBdnxiWg, module: M06, title: "Winds Aloft and Cross-Country Weather Charts"}
+  - {n: 43, id: BHIPomiLvYg, module: M06, title: "Weather Sources to Check Before Flight"}
+  - {n: 44, id: D2gBdygxgW0, module: M06, title: "Prognostic Charts Explained"}
+  - {n: 45, id: pvBNaSMaFd8, module: M06, title: "Flight Service Stations"}
+  - {n: 46, id: FoGmomeNVb8, module: M06, title: "Weather Hazards and Avoidance"}
+  - {n: 47, id: Ydvev6B7IaY, module: M07, title: "Cross-Country Navigation Log with Calculations"}
+  - {n: 48, id: L8ORGN6zZog, module: M07, title: "Guide to the E6B Flight Computer"}
+  - {n: 49, id: QXz9sMUdbZ0, module: M07, title: "Electronic Alternatives to the E6B"}
+  - {n: 50, id: 2tIYJyRldzM, module: M07, title: "Flying a Cross-Country with a Navigation Log"}
+  - {n: 51, id: ix_BShDvvts, module: M08, title: "Complete Guide to Weight and Balance"}
+  - {n: 52, id: RMitIgzeSgo, module: M08, title: "Aircraft Performance Explained"}
+  - {n: 53, id: AKFVSq94_Cg, module: M09, title: "Documents Required to Fly Legally"}
+  - {n: 54, id: pzAqxNSqv8w, module: M09, title: "BasicMed Explained"}
+  - {n: 55, id: n0KrBfRJD0A, module: M09, title: "Private Pilot Privileges and Limitations"}
+  - {n: 56, id: uowNUuqzVyY, module: M09, title: "Right-of-Way and Collision-Avoidance Regulations"}
+  - {n: 57, id: v1ARrbrbkaI, module: M09, title: "Seatbelts and Safety Regulations"}
+  - {n: 58, id: EfJspfZfjKM, module: M09, title: "Maintenance Basics"}
+  - {n: 59, id: LC9-PgdDFmo, module: M09, title: "NOTAMs and the Chart Supplement"}
+  - {n: 60, id: 1J5g3G7A4N8, module: M10, title: "Physiology Basics and Risk Management"}
+  - {n: 61, id: sxeBngtzvz0, module: M11, title: "How to Operate an Airplane — The Basics"}
+  - {n: 62, id: Yacx4jNQlgo, module: M11, title: "Airport Signs, Markings, and Lighting"}
+  - {n: 63, id: OvR3VQKEIr0, module: M11, title: "Airport Traffic Patterns"}
+  - {n: 64, id: tPiBZMRxU3o, module: M11, title: "How to Taxi in Strong Winds"}
+url_template: https://www.youtube.com/watch?v={id}

@@ -1,0 +1,100 @@
+schema_version: 1
+checked: 2026-08-04
+policy: Link and summarize only unless documented rights permit reuse. Verify safety-critical claims against primary sources.
+playlists:
+  - id: free-pilot-training-ppl
+    title: Private Pilot Ground Course
+    creator: Free Pilot Training
+    url: https://www.youtube.com/playlist?list=PLKGcDgymP_oYkMrMNcc04gr6JMru4E2xH
+    videos_at_check: 64
+    role: primary-syllabus
+    coverage: Full private-pilot ground sequence
+    rights: link-only
+  - id: pilot-certified-free-ground-school
+    title: Free Private Pilot Ground School
+    creator: Pilot Certified
+    url: https://www.youtube.com/playlist?list=PLZaHMTnarL62yITTmVI85Fe9wEGEwCrq5
+    videos_at_check: 14
+    role: alternate-explanation
+    coverage: Condensed private-pilot ground school
+    rights: link-only
+  - id: king-schools-free-private-pilot
+    title: Free Private Pilot Videos
+    creator: King Schools
+    url: https://www.youtube.com/playlist?list=PLQTup63Foj4Si57jzEUT-KGtbaAsjkbAE
+    videos_at_check: 44
+    role: supplemental
+    coverage: Private-pilot concepts and practical tips
+    rights: link-only
+  - id: fly8ma-private-pilot
+    title: Private Pilot Ground School
+    creator: FLY8MA.com Flight Training
+    url: https://www.youtube.com/playlist?list=PLnjaM9eVs4ptiLUC114Vlj2FEc_8xGuWK
+    videos_at_check: 21
+    role: alternate-explanation
+    coverage: Private-pilot ground topics
+    rights: link-only
+  - id: flightinsight-learn-to-fly
+    title: Learn to Fly — Private Pilot
+    creator: FlightInsight
+    url: https://www.youtube.com/playlist?list=PLWCnp9tjvIPc7od4jaIw_fd3q1DTaU2L7
+    videos_at_check: 19
+    role: visual-supplement
+    coverage: Private-pilot concepts, navigation, weather, systems
+    rights: link-only
+  - id: james-currie-weather
+    title: Weather
+    creator: James Currie
+    url: https://www.youtube.com/playlist?list=PL9fpIdM5zyFe-oJaH3H6Bk20_WJ1oaaJx
+    videos_at_check: 23
+    role: weather-supplement
+    coverage: Aviation-weather lessons
+    rights: link-only
+  - id: faa-minute-for-safety
+    title: Let's Take a Minute for Safety
+    creator: Federal Aviation Administration
+    url: https://www.youtube.com/playlist?list=PL5vHkqHi51DTNmlO6vnFgOt6nd6K0--xr
+    videos_at_check: 10
+    role: official-safety
+    coverage: Concise general-aviation safety topics
+    rights: verify-us-government-status-per-asset
+  - id: faa-gajsc
+    title: GAJSC Safety Enhancement Topics
+    creator: Federal Aviation Administration
+    url: https://www.youtube.com/playlist?list=PL5vHkqHi51DT0VoUCd53Rq5U30LlFO_46
+    videos_at_check: 15
+    role: official-safety
+    coverage: General Aviation Joint Safety Committee risk topics
+    rights: verify-us-government-status-per-asset
+  - id: ntsb-ga-safety-alerts
+    title: NTSB General Aviation Safety Alert Videos
+    creator: NTSBgov
+    url: https://www.youtube.com/playlist?list=PL5aVmmm4Qt9Fr37yky1YoUC4r5A5miP8L
+    videos_at_check: 21
+    role: official-accident-prevention
+    coverage: Accident patterns and safety alerts
+    rights: verify-us-government-status-per-asset
+  - id: fly-inn-aircraft-ownership
+    title: Aircraft Ownership — The Reality of Owning Your Own Plane
+    creator: Fly-Inn
+    url: https://www.youtube.com/playlist?list=PLnrchi5SrWw-8QY3j5ZOWrC_GkjXIBh9A
+    videos_at_check: 37
+    role: ownership-perspective
+    coverage: Practical owner experience and costs
+    rights: link-only
+  - id: plane-sense-audio
+    title: Plane Sense General Aviation Information (FAA-H-8083-19A)
+    creator: Phillip J. Murphy
+    url: https://www.youtube.com/playlist?list=PLcw703S2LGngBcQ08Al7iELBPaEk1MO9r
+    videos_at_check: 11
+    role: ownership-orientation
+    coverage: Narrated FAA Plane Sense material
+    rights: verify-audio-and-publication-separately
+  - id: abs-hangar
+    title: The ABS Hangar
+    creator: American Bonanza Society
+    url: https://www.youtube.com/playlist?list=PLm_aHDxjiW998LxZhRYbnPrAoMpHW4YqJ
+    videos_at_check: 42
+    role: type-club-maintenance-supplement
+    coverage: Maintenance, operations, and owner responsibilities with a Bonanza focus
+    rights: link-only

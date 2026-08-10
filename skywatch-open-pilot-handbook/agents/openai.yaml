@@ -1,0 +1,4 @@
+interface:
+  display_name: "SkyWatch Open Pilot Handbook"
+  short_description: "Source-first guidance from student to owner"
+  default_prompt: "Use $skywatch-open-pilot-handbook to help me learn, plan, or make a safer general-aviation decision using current authoritative sources."

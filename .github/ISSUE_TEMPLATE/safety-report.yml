@@ -1,0 +1,31 @@
+name: Safety-critical report
+description: Report harmful, ambiguous, stale, or authority-confusing aviation guidance
+title: "[SAFETY] "
+labels: [safety-critical]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: Scenario and observed output
+      description: Do not include personal, medical, policy, claim, logbook, or aircraft-identifying data.
+    validations:
+      required: true
+  - type: textarea
+    id: risk
+    attributes:
+      label: Potential consequence
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Current authoritative source
+    validations:
+      required: true
+  - type: input
+    id: checked
+    attributes:
+      label: Date source was checked
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
