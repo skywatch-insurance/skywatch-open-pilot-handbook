@@ -29,7 +29,7 @@ def main() -> int:
             errors.append(f"SKILL.md missing safety invariant: {phrase}")
 
     required_refs = [
-        "references/curriculum.md", "references/free-pilot-training-map.yaml", "references/playlists.yaml",
+        "references/curriculum.md", "references/free-pilot-training-map.yaml", "references/official-course-catalog.yaml", "references/playlists.yaml",
         "references/free-learning-catalog.yaml",
         "references/source-policy.md", "references/sources.yaml", "references/safety-boundaries.md",
         "references/pilot-journeys.md", "references/ownership-journey.md", "references/tool-catalog.md",
@@ -44,6 +44,13 @@ def main() -> int:
         errors.append("Free Pilot Training map must contain lessons 1–64 in order")
     if len(ids) != 64 or len(set(ids)) != 64:
         errors.append("Free Pilot Training map must contain 64 unique video IDs")
+
+    official_catalog = require("references/official-course-catalog.yaml", errors)
+    official_ids = re.findall(r"^  - id: (ALC-\d+)$", official_catalog, re.M)
+    if len(official_ids) != 113 or len(set(official_ids)) != 113:
+        errors.append("Official-course catalog must contain 113 unique FAA Safety.gov course IDs")
+    if "faa_safety_team: 83" not in official_catalog or "aopa_air_safety_institute: 30" not in official_catalog:
+        errors.append("Official-course catalog must preserve the verified 83 FAASTeam / 30 AOPA split")
 
     playlists = require("references/playlists.yaml", errors)
     if len(re.findall(r"^  - id:", playlists, re.M)) < 10:
@@ -73,7 +80,7 @@ def main() -> int:
         for error in errors:
             print(f"- {error}")
         return 1
-    print(f"VALIDATION PASSED: 64 mapped core lessons, {len(catalog_numbers)} credited free resources, {len(templates)} templates, source and safety policies present")
+    print(f"VALIDATION PASSED: 177 foundation and institutional courses, {len(catalog_numbers)} additional credited resources, {len(templates)} templates, source and safety policies present")
     return 0
 
 

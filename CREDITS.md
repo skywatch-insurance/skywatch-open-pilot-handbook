@@ -22,6 +22,8 @@ Full credit to [Free Pilot Training](https://www.youtube.com/@FreePilotTraining)
 
 - [Federal Aviation Administration](https://www.faa.gov/) — pilot training materials, FAASTeam/WINGS, Airman Education, handbooks, ACS, and safety resources.
 - [AOPA Air Safety Institute](https://www.aopa.org/training-and-safety/air-safety-institute) — free safety courses, videos, quizzes, case studies, podcasts, and safety centers.
+- [FAA Safety Team course catalog](https://www.faasafety.gov/gslac/ALC/course_catalog.aspx) — 83 free FAASTeam-presented courses identified in the live catalog on August 10, 2026.
+- [AOPA courses in FAA Safety.gov](https://www.faasafety.gov/gslac/ALC/course_catalog.aspx) — 30 free AOPA-presented courses identified in the live catalog on August 10, 2026. AOPA is an independent aviation organization, not a government authority.
 - [Experimental Aircraft Association](https://www.eaa.org/eaa/pilots/eaa-pilot-proficiency/proficiency-and-education-programs) — pilot proficiency programs and recorded webinars.
 - [National Transportation Safety Board](https://www.ntsb.gov/Advocacy/safety-alerts/Pages/default.aspx) — safety alerts, investigations, and accident-prevention learning.
 - [NOAA National Weather Service](https://www.noaa.gov/jetstream) — JetStream Online School for Weather and official weather education.
