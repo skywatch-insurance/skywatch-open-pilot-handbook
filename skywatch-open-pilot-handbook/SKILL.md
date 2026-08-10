@@ -21,7 +21,7 @@ Help users learn, plan, and ask better questions. Never act as operational autho
 
 ## Route to the right reference
 
-- Private-pilot study, lesson order, ACS preparation, or video lessons: read [references/curriculum.md](references/curriculum.md) and search [references/free-pilot-training-map.yaml](references/free-pilot-training-map.yaml).
+- Private-pilot study, lesson order, ACS preparation, or video lessons: read [references/curriculum.md](references/curriculum.md), search [references/free-pilot-training-map.yaml](references/free-pilot-training-map.yaml), and consult [references/official-course-catalog.yaml](references/official-course-catalog.yaml) for free FAASTeam and AOPA safety courses.
 - Alternative free explanations or source playlists: read [references/playlists.yaml](references/playlists.yaml), then search the item-level [references/free-learning-catalog.yaml](references/free-learning-catalog.yaml). Always name and link the original creator.
 - FAA, NTSB, NWS, manufacturer, creator, or SkyWatch source selection: read [references/source-policy.md](references/source-policy.md) and [references/sources.yaml](references/sources.yaml).
 - Training-school, instructor, study, solo, checkride, or new-pilot planning: read [references/pilot-journeys.md](references/pilot-journeys.md).

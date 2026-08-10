@@ -3,6 +3,7 @@
 Portable skill: ./skywatch-open-pilot-handbook/SKILL.md
 Curriculum: ./skywatch-open-pilot-handbook/references/curriculum.md
 Free Pilot Training lesson map: ./skywatch-open-pilot-handbook/references/free-pilot-training-map.yaml
+Official FAASTeam and AOPA course catalog: ./skywatch-open-pilot-handbook/references/official-course-catalog.yaml
 Source registry: ./skywatch-open-pilot-handbook/references/sources.yaml
 Safety boundaries: ./skywatch-open-pilot-handbook/references/safety-boundaries.md
 Pilot journeys: ./skywatch-open-pilot-handbook/references/pilot-journeys.md

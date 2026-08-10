@@ -6,6 +6,7 @@
 |---|---|---|
 | Skill routing and safety boundaries | draft | CFI, A&P/IA, aviation counsel, and licensed insurance review |
 | 64-lesson Free Pilot Training map | mapped | Creator partnership/rights conversation; lesson-level ACS/source crosswalk |
+| 113-course FAASTeam/AOPA catalog | linked and credited | Curate specialty applicability and map relevant courses to curriculum modules |
 | Twelve-module PPL curriculum | draft | Current Private Pilot Airplane ACS crosswalk and CFI review |
 | Alternative free playlists | mapped | Annual availability/metadata review; per-asset rights check before reuse |
 | 199-item credited free-learning catalog | usable | Refresh counts and links; expand topic/ACS mapping; never mirror creator media without permission |

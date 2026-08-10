@@ -11,7 +11,7 @@
 
 This is a syllabus and retrieval map, not an FAA-approved ground school or graduation certificate. Align study with the current Private Pilot Airplane ACS, current FAA handbooks, regulations, and the user's instructor.
 
-Free Pilot Training supplies the primary 64-lesson sequence. Its captions were reviewed as syllabus inputs on 2026-08-04. The repository does not reproduce transcripts. Use `free-pilot-training-map.yaml` to retrieve the exact lesson URL and module. Use `playlists.yaml` when the learner needs an alternate free explanation.
+Free Pilot Training supplies the primary 64-lesson sequence. Its captions were reviewed as syllabus inputs on 2026-08-04. The repository does not reproduce transcripts. Use `free-pilot-training-map.yaml` to retrieve the exact lesson URL and module. Use `official-course-catalog.yaml` to find 83 free FAASTeam and 30 free AOPA safety courses, remembering that specialty courses are not automatically part of the fixed-wing core. Use `playlists.yaml` when the learner needs an alternate free explanation.
 
 For each topic:
 

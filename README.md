@@ -11,6 +11,7 @@ The Open Pilot Handbook is an open-source, source-first aviation knowledge proje
 - [`skywatch-open-pilot-handbook/SKILL.md`](skywatch-open-pilot-handbook/SKILL.md): the portable agent skill.
 - [`skywatch-open-pilot-handbook/references/curriculum.md`](skywatch-open-pilot-handbook/references/curriculum.md): 12-module private-pilot syllabus.
 - [`skywatch-open-pilot-handbook/references/free-pilot-training-map.yaml`](skywatch-open-pilot-handbook/references/free-pilot-training-map.yaml): all 64 Free Pilot Training lessons mapped into the syllabus.
+- [`skywatch-open-pilot-handbook/references/official-course-catalog.yaml`](skywatch-open-pilot-handbook/references/official-course-catalog.yaml): 113 free FAA Safety Team and AOPA Air Safety Institute courses, credited and linked to their FAA catalog pages.
 - [`skywatch-open-pilot-handbook/references/playlists.yaml`](skywatch-open-pilot-handbook/references/playlists.yaml): additional free curriculum, safety, weather, and ownership playlists.
 - [`skywatch-open-pilot-handbook/references/free-learning-catalog.yaml`](skywatch-open-pilot-handbook/references/free-learning-catalog.yaml): 199 credited free video lessons and institutional learning hubs, each linked to its original publisher.
 - [`CREDITS.md`](CREDITS.md): human-readable creator and institutional attribution.

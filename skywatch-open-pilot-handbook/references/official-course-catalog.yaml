@@ -1,0 +1,802 @@
+schema_version: 1
+checked_at: 2026-08-10
+source_catalog: https://www.faasafety.gov/gslac/ALC/ajax_request_alc.aspx?ccatavl=0&view=otherCat&categoryId=15
+rights: link-only
+access_note: Free at time of review; FAA Safety.gov enrollment or sign-in may be required.
+scope_note: This is an institutional catalog, not a claim that every specialty course is part of the fixed-wing private-pilot core.
+counts:
+  total: 113
+  faa_safety_team: 83
+  aopa_air_safety_institute: 30
+courses:
+  - id: ALC-80
+    title: "Essential Aerodynamics: Stalls, Spins, and Safety"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=80
+  - id: ALC-82
+    title: "Do the Right Thing: Decision Making for Pilots"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=82
+  - id: ALC-90
+    title: "Know Before You Go: Navigating Today's Airspace"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=90
+  - id: ALC-93
+    title: "Say it Right: Mastering Radio Communication"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=93
+  - id: ALC-94
+    title: "Runway Safety"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=94
+  - id: ALC-188
+    title: "Accident Case Study: Rescue Gone Wrong"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=188
+  - id: ALC-189
+    title: "Accident Case Study: Cross-Country Crisis"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=189
+  - id: ALC-190
+    title: "Accident Case Study: Airframe Icing"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=190
+  - id: ALC-191
+    title: "Accident Case Study: VFR Into IMC"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=191
+  - id: ALC-213
+    title: "IFR Insights: Cockpit Weather"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=213
+  - id: ALC-236
+    title: "Public Benefit Flight: Balancing Safety and Compassion"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=236
+  - id: ALC-253
+    title: "Accident Case Study: Time Lapse"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=253
+  - id: ALC-268
+    title: "Accident Case Study: In Too Deep"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=268
+  - id: ALC-295
+    title: "Weather Wise: VFR into IMC"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=295
+  - id: ALC-323
+    title: "Accident Case Study: Delayed Reaction"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=323
+  - id: ALC-324
+    title: "Accident Case Study: Everyone's Problem"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=324
+  - id: ALC-326
+    title: "Accident Case Study: Communication Breakdown"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=326
+  - id: ALC-406
+    title: "Medical Self Assessment: A Pilot's Guide To Flying Healthy"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=406
+  - id: ALC-410
+    title: "Accident Case Study: Emergency Management"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=410
+  - id: ALC-419
+    title: "Transitioning to Other Airplanes"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=419
+  - id: ALC-425
+    title: "Accident Case Study: Final Approach"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=425
+  - id: ALC-429
+    title: "IFR Insights: A Practical Approach"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=429
+  - id: ALC-1325
+    title: "Accident Case Study: Deadly Disorientation"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1325
+  - id: ALC-1405
+    title: "National Pause for GA Safety Quiz"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1405
+  - id: ALC-1408
+    title: "Accident Case Study: Fair Weather Flier"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1408
+  - id: ALC-1474
+    title: "Expert Insights: Crash Considerations"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1474
+  - id: ALC-1519
+    title: "General Aviation TSA Security Awareness"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1519
+  - id: ALC-1521
+    title: "Expert Insights: Survival Equipment"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1521
+  - id: ALC-1574
+    title: "Expert Insights: Mental Performance"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1574
+  - id: ALC-1593
+    title: "Expert Insights: Mind of a Pilot"
+    institution: "AOPA Air Safety Institute"
+    presented_by: "AOPA"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1593
+  - id: ALC-25
+    title: "Flight Review Prep Guide"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=25
+  - id: ALC-28
+    title: "The Art of Aeronautical Decision-Making"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=28
+  - id: ALC-30
+    title: "Multi-Engine Safety Review"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=30
+  - id: ALC-34
+    title: "Maneuvering: Approach and Landing"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=34
+  - id: ALC-38
+    title: "Instrument Proficiency Check Review Guide"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=38
+  - id: ALC-42
+    title: "Airspace, Special Use Airspace and TFRs"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=42
+  - id: ALC-48
+    title: "Hold Short for Runway Safety"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=48
+  - id: ALC-49
+    title: "Teaching and Performing Pre-Flight Preparations"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=49
+  - id: ALC-62
+    title: "Aeronautical Decision Making for VFR Pilots"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=62
+  - id: ALC-79
+    title: "New York City Special Flight Rules Area (SFRA)"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=79
+  - id: ALC-103
+    title: "Helicopter - Weight & Balance, Performance"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=103
+  - id: ALC-175
+    title: "Night Vision Goggles (NVGs)"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=175
+  - id: ALC-232
+    title: "NTSB - Weatherwise"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=232
+  - id: ALC-233
+    title: "Top 10 Causes of General Aviation Accidents"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=233
+  - id: ALC-322
+    title: "Aviation Weather Data: A Targeted Approach"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=322
+  - id: ALC-405
+    title: "DC SFRA"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=405
+  - id: ALC-408
+    title: "ADM for LTA Free Balloons"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=408
+  - id: ALC-448
+    title: "Surprise, Surprise! - The on-line course"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=448
+  - id: ALC-449
+    title: "Airman Certification Standards (ACS)"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=449
+  - id: ALC-451
+    title: "Part 107 Small UAS Initial - Part 61 Pilots"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=451
+  - id: ALC-480
+    title: "Class B Airspace VFR Operations"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=480
+  - id: ALC-481
+    title: "Student Pilot VFR Navigation Planning"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=481
+  - id: ALC-485
+    title: "Takeoff, Landing, and Aircraft Control"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=485
+  - id: ALC-488
+    title: "Ice Contaminated Stall Training"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=488
+  - id: ALC-498
+    title: "Aircraft Exhaust Systems (AMT Core Course 2018)"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=498
+  - id: ALC-515
+    title: "Part 107 Small UAS Recurrent - Part 61 Pilots"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=515
+  - id: ALC-612
+    title: "Oh No! - I am Landing Out!"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=612
+  - id: ALC-629
+    title: "Gliding – For the Airplane Pilot."
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=629
+  - id: ALC-650
+    title: "Runway Incursion Remedial Training Program RIRTP"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=650
+  - id: ALC-653
+    title: "Preventive Maintenance"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=653
+  - id: ALC-659
+    title: "Sun-N-Fun 2023 Compliance Program"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=659
+  - id: ALC-670
+    title: "Tarmac Tales"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=670
+  - id: ALC-671
+    title: "Alton Bay Ice Runway - Decision Making on Ice"
+    institution: "FAA Safety Team"
+    presented_by: "Boston FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=671
+  - id: ALC-677
+    title: "Part 107 Small UAS Recurrent"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=677
+  - id: ALC-684
+    title: "Aero Club of New England (ACONE) Crash Course 2021"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=684
+  - id: ALC-697
+    title: "Air Charter Safety for CFIs and DPEs"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=697
+  - id: ALC-730
+    title: "Human Factors for Pilots 01 & 2 - Introduction & Safety Culture"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=730
+  - id: ALC-731
+    title: "Human Factors for Pilots 03 - Human Performance"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=731
+  - id: ALC-732
+    title: "Human Factors for Pilots 04 - Communication"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=732
+  - id: ALC-738
+    title: "AirVenture 2023 Pilot Professionalism"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=738
+  - id: ALC-807
+    title: "AirVenture 2023 Benefits of Home-Based Simulators"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=807
+  - id: ALC-810
+    title: "AirVenture 2023 Turbulence 101"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=810
+  - id: ALC-811
+    title: "AirVenture 2023 BasicMed"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=811
+  - id: ALC-825
+    title: "Human Factors for Pilots 05 - Teamwork"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=825
+  - id: ALC-826
+    title: "Human Factors for Pilots 06 - Situational Awareness"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=826
+  - id: ALC-827
+    title: "Human Factors for Pilots 07 - Decision Making"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=827
+  - id: ALC-828
+    title: "Human Factors for Pilots 08 - Threat and Error Management"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=828
+  - id: ALC-829
+    title: "Human Factors for Pilots 09 - Human Information Processing"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=829
+  - id: ALC-830
+    title: "Human Factors for Pilots 10 - Design and Automation"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=830
+  - id: ALC-836
+    title: "AirVenture 2023 Pro-Tips for ALL Pilots-Startle Effect"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=836
+  - id: ALC-885
+    title: "AirVenture 2022 Colorado Mountain Flying"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=885
+  - id: ALC-915
+    title: "AirVenture 2022 VFR Approaches that Kill"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=915
+  - id: ALC-918
+    title: "AirVenture 2023 Leidos Flight Service"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=918
+  - id: ALC-934
+    title: "AirVenture 2022 Airline To GA, Pro-Level Flying for the GA Pilot"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=934
+  - id: ALC-942
+    title: "AirVenture 2022 The Top 10 Leading Causes of Insurance Claims"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=942
+  - id: ALC-945
+    title: "AirVenture 2022 Weather Reports - Myths and Misconceptions"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=945
+  - id: ALC-947
+    title: "AirVenture 2022 Compliance Action v. Legal Enforcement Action"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=947
+  - id: ALC-948
+    title: "AirVenture 2022 Three Accidents-Many Choices"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=948
+  - id: ALC-949
+    title: "AirVenture 2022 AIRPORTS… From the Ground Up"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=949
+  - id: ALC-950
+    title: "AirVenture 2022 Preventing Runway Incursions"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=950
+  - id: ALC-951
+    title: "AirVenture 2022 NTSB Loss of Control Accident"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=951
+  - id: ALC-954
+    title: "AirVenture 2022 Loss of Aircraft Control"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=954
+  - id: ALC-955
+    title: "AirVenture 2022 The Office of Aerospace Medicine and You"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=955
+  - id: ALC-956
+    title: "AirVenture 2022 IFR Approaches that Kill"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=956
+  - id: ALC-960
+    title: "San Antonio FSDO Annual FAASTeam Representative Training"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=960
+  - id: ALC-1093
+    title: "Cost Sharing, Time Building, and Posting on Social Media"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1093
+  - id: ALC-1165
+    title: "AirVenture 2023 Threat and Error Management"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1165
+  - id: ALC-1166
+    title: "Sun-N-Fun 2023 Threat and Error Management Insights from the FAA"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1166
+  - id: ALC-1168
+    title: "AirVenture 2023 General Aviation Cross Border Operations"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1168
+  - id: ALC-1172
+    title: "Hartzell Aviation Safety Training"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1172
+  - id: ALC-1174
+    title: "2023 AirVenture Aviation Safety"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1174
+  - id: ALC-1175
+    title: "Ethics and Safety Culture for GA Pilots"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1175
+  - id: ALC-1182
+    title: "Pilot Deviations: Root Cause Analysis"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1182
+  - id: ALC-1339
+    title: "Suspected Unapproved Parts (Core Course 2026)"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1339
+  - id: ALC-1359
+    title: "Aircraft Exhaust System Defects Can Lead to Accidents"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1359
+  - id: ALC-1420
+    title: "Landing Safety- A Tactical and Practical Approach"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1420
+  - id: ALC-1423
+    title: "From the Flight Deck - LIVE - A GA Pilot Workshop on Phraseology"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1423
+  - id: ALC-1462
+    title: "Terrain Ahead! Preventing CFIT Accidents"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1462
+  - id: ALC-1485
+    title: "Frozen Flight - Navigating Winter Operations"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1485
+  - id: ALC-1492
+    title: "USHST Peer Pilot Mental Health Support Program"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1492
+  - id: ALC-1518
+    title: "NEST - Management of Risk from a NASA Associate Director"
+    institution: "FAA Safety Team"
+    presented_by: "FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1518
+  - id: ALC-1569
+    title: "Reducing Surface Risk in the National Airspace System"
+    institution: "FAA Safety Team"
+    presented_by: "Boston FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1569
+  - id: ALC-1570
+    title: "Calling the Right Plays - Communications in Safety"
+    institution: "FAA Safety Team"
+    presented_by: "Boston FAASTeam"
+    access: free-at-review
+    kind: institutional-course
+    url: https://www.faasafety.gov/gslac/ALC/course_content.aspx?pf=1&preview=true&cID=1570
