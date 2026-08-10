@@ -1,6 +1,6 @@
 schema_version: 1
 default_jurisdiction: US-FAA
-last_registry_review: 2026-08-04
+last_registry_review: 2026-08-10
 sources:
   - id: ecfr-title-14
     title: Electronic Code of Federal Regulations, Title 14
@@ -109,6 +109,48 @@ sources:
     authority: Experimental Aircraft Association
     kind: institutional-education
     url: https://www.eaa.org/eaa/learn-to-fly
+    freshness: annual
+  - id: faa-pilot-training
+    title: FAA Pilot Training and Study Materials
+    authority: Federal Aviation Administration
+    kind: official-education
+    url: https://www.faa.gov/pilots/training
+    freshness: check-live
+  - id: faa-airman-education
+    title: FAA Airman Education Programs
+    authority: Federal Aviation Administration
+    kind: official-education
+    url: https://www.faa.gov/pilots/training/airman_education
+    freshness: check-live
+  - id: aopa-asi-online-learning
+    title: AOPA Air Safety Institute Online Learning
+    authority: AOPA Air Safety Institute
+    kind: institutional-safety
+    url: https://www.aopa.org/training-and-safety/online-learning
+    freshness: check-live
+  - id: aopa-asi-safety-centers
+    title: AOPA Air Safety Institute Safety Centers
+    authority: AOPA Air Safety Institute
+    kind: institutional-safety
+    url: https://www.aopa.org/training-and-safety/air-safety-institute/safety-centers
+    freshness: check-live
+  - id: eaa-proficiency-education
+    title: EAA Pilot Proficiency and Education Programs
+    authority: Experimental Aircraft Association
+    kind: institutional-education
+    url: https://www.eaa.org/eaa/pilots/eaa-pilot-proficiency/proficiency-and-education-programs
+    freshness: check-live
+  - id: noaa-jetstream
+    title: JetStream Online School for Weather
+    authority: NOAA National Weather Service
+    kind: official-weather-education
+    url: https://www.noaa.gov/jetstream
+    freshness: check-live
+  - id: nasa-aeronautics-guide
+    title: Beginner's Guide to Aeronautics
+    authority: NASA Glenn Research Center
+    kind: official-science-education
+    url: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/
     freshness: annual
   - id: free-pilot-training
     title: Free Pilot Training — Private Pilot Ground Course
