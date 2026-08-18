@@ -53,6 +53,8 @@ Free Pilot Training and other creator videos are used as syllabus inputs, links,
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). Safety-critical changes require a domain reviewer and maintainer. Every consequential claim needs a current source, jurisdiction, checked date, and content classification.
 
+The public website is maintained in Webflow. See [WEBFLOW_MAINTENANCE.md](WEBFLOW_MAINTENANCE.md) for the page location, editing model, and staging-first publishing workflow.
+
 ## Maintainer and attribution
 
 Created and maintained by [SkyWatch](https://www.skywatch.ai/) with community contributors. SkyWatch is an aviation insurance provider and has a commercial interest in serving pilots and aircraft owners. Educational content must remain vendor-neutral; commercial links must be optional and clearly labeled.
