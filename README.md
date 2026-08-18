@@ -1,8 +1,46 @@
 # SkyWatch Open Pilot Handbook
 
-**From first lesson to first year of ownership.**
+## Open-source aviation knowledge to turbocharge AI assistants
 
-The Open Pilot Handbook is an open-source, source-first aviation knowledge project and portable AI skill for US general aviation. It helps prospective pilots, students, certificated pilots, renters, instructors, buyers, and first-year owners learn concepts, plan decisions, use practical tools, and find the current authority that controls.
+Turn ChatGPT, Claude, Cursor, or another compatible AI agent into a better aviation learning co-pilot, grounded in FAA sources and built for pilots from their first lesson through aircraft ownership.
+
+The handbook does not try to make an AI sound like an aviation encyclopedia. It gives the assistant a source policy, a structured curriculum, verified free resources, practical tools, stage-based sequencing, and aviation-specific safety boundaries. The result is an answer that is easier to verify and act on.
+
+## See the difference
+
+These prompts are designed to test what the skill uniquely changes. Run the identical prompt with the skill disabled and enabled, using the same model on the same day.
+
+### 1. Turn “study more” into the right next four weeks
+
+```text
+I'm a 28-hour private-pilot student. I can perform the basic maneuvers and land consistently, but I struggle with VFR cross-country planning and radio confidence. Build my next four weeks of study and flight preparation using only free resources. Give me exact links, readiness gates, and what I should deliberately postpone.
+```
+
+**Without the skill:** expect a broad ground-school checklist covering many subjects, generic resource suggestions, and no clear exit criteria.
+
+**With SkyWatch Co-Pilot:** expect a stage-specific sequence, only the relevant curriculum modules, credited lesson links, instructor-review points, measurable readiness gates, and lower-priority subjects explicitly deferred.
+
+### 2. Replace plausible recommendations with exact resources
+
+```text
+Give me the exact free video lessons and free FAA courses that cover VFR cross-country nav-log construction. Links, not descriptions.
+```
+
+**Without the skill:** an assistant may suggest a general playlist, broad FAA handbooks, or plausible-looking resources that still need manual verification.
+
+**With SkyWatch Co-Pilot:** it can retrieve the mapped Free Pilot Training cross-country lessons and the FAASTeam “Student Pilot VFR Navigation Planning” course, identify the original publishers, and provide the cataloged links instead of guessing from memory.
+
+### 3. Make calculations auditable
+
+```text
+Front seats 340 lb at arm 37, rear seats 170 lb at 73, baggage 60 lb at 95, fuel 40 gal, and empty weight 1,480 lb at 39.5. Show the complete weight-and-balance calculation with every station, moment, total, CG, units, and assumptions. Then tell me exactly what aircraft-specific documents I must verify before using the result.
+```
+
+**Without the skill:** expect prose arithmetic and a conclusion that may blur a teaching calculation with an aircraft-specific determination.
+
+**With SkyWatch Co-Pilot:** expect the included calculator's auditable station-by-station output, visible units and assumptions, and a precise verification step using that aircraft's current approved records.
+
+More demo guidance and ready-to-record scripts are in [DEMO_PROMPTS.md](DEMO_PROMPTS.md).
 
 > **Important:** This project is educational. It is not a substitute for current regulations, NOTAMs, weather products, approved aircraft documents, a CFI/CFII, DPE, AME, A&P/IA, attorney, CPA, lender, title/escrow professional, or licensed insurance representative. It does not make go/no-go, airworthiness, medical, legal, tax, or coverage decisions.
 
